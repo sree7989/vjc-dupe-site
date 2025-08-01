@@ -6,79 +6,108 @@ const Content = () => {
     <div
       style={{
         position: "relative",
-        padding: "50px",
+        padding: "10px",
         boxSizing: "border-box",
         backgroundColor: "white",
         fontFamily: "Times New Roman",
         overflow: "hidden",
-        fontSize: "18px",
+       
       }}
     >
-      <h1 style={{ textAlign: "center", fontSize: "26px", marginBottom: "30px", fontWeight: "bold" }}>
-        Germany Student Visa - <span style={{ color: "orange" }}>VJC Overseas</span>
-      </h1>
+      {/* Centered top heading */}
+      <h3
+        style={{
+          fontSize: "28px",
+          fontWeight: "bold",
+          textAlign: "center",
+          marginBottom: "24px",
+        }}
+      >
+        Germany Student Visa -{" "}
+        <span style={{ color: "orange" }}>VJC Overseas</span>
+      </h3>
 
       <p style={{ marginBottom: "20px" }}>
         Are you dreaming of{" "}
-        <strong>
-          <a
-            href="https://vjcoverseas.com/study-abroad/germany"
-            style={{ color: "#000", textDecoration: "underline" }}
-          >
-            Study in Germany
-          </a>
-        </strong>
+        <a
+          href="https://vjcoverseas.com/study-abroad/germany"
+          target="_blank"
+          style={{ fontWeight: "bold" }}
+        >
+          Study in Germany
+        </a>
         , one of the most prestigious countries for higher education worldwide?
         With its world-class universities, innovative research, and diverse
         culture, Germany is an excellent destination for international students.
         Whether you are applying for free or paid education,{" "}
-        <strong style={{ color: "orange" }}>VJC Overseas</strong> is here to
-        guide you through the entire process, making your journey smooth and
-        hassle-free.
+        <span style={{ color: "orange", fontWeight: "bold" }}>VJC Overseas</span>{" "}
+        is here to guide you through the entire process, making your journey
+        smooth and hassle-free.
       </p>
 
-      <h2 style={{ fontWeight: "bold" }}>
-        <strong>Study in Germany: New Changes, Free and Paid Education Eligibility</strong>
-      </h2>
-      <p>
-        Germany has made a few changes to its{" "}
-        <strong>
-          <a
-            href="https://vjcoverseas.com/migrate/germany/student-visa"
-            style={{ color: "#000", textDecoration: "underline" }}
-          >
-            Germany Student Visa
-          </a>
-        </strong>{" "}
-        regulations for international students in 2024. These changes are
-        designed to make the process more streamlined and accessible, ensuring
-        that students can easily navigate the system and pursue their academic
-        goals.
-      </p>
+      <div className="flex flex-col lg:flex-row items-start h-auto lg:space-x-6 space-y-4 lg:space-y-0">
+        <div className="flex-shrink-0 mx-auto lg:mx-0">
+          <Image
+            src="/gsvisaimage.jpg"
+            alt="Image description"
+            width={500}
+            height={300}
+            className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:w-80 lg:h-70 object-contain shadow-lg rounded-lg"
+            priority
+            unoptimized
+          />
+        </div>
 
-      <ul>
+        <div className="px-4 lg:px-0">
+          <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+            Study in Germany: New Changes, Free and Paid Education Eligibility
+          </h3>
+          <p className="mb-4 text-sm sm:text-base">
+            Germany has made a few changes to its{" "}
+            <a
+              href="https://vjcoverseas.com/migrate/germany/student-visa"
+              target="_blank"
+              style={{ fontWeight: "bold" }}
+            >
+              Germany Student Visa
+            </a>{" "}
+            regulations for international students in 2024. These changes are
+            designed to make the process more streamlined and accessible,
+            ensuring that students can easily navigate the system and pursue
+            their academic goals.
+          </p>
+        </div>
+      </div>
+
+      <ul style={{ marginBottom: "20px" }}>
         <li>
-          <strong>Streamlined Visa Processing:</strong> The visa processing
-          time has been reduced in some regions to help students prepare for
-          their academic start dates.
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • Streamlined Visa Processing:
+          </strong>{" "}
+          The visa processing time has been reduced in some regions to help
+          students prepare for their academic start dates.
         </li>
         <li>
-          <strong>Digital Visa Application:</strong> Certain consulates now
-          offer a digital application process, making it more convenient for
-          students.
+          <strong style={{ color: "rgb(3, 60, 65)" }}>
+            • Digital Visa Application:
+          </strong>{" "}
+          Certain consulates now offer a digital application process, making it
+          more convenient for students.
         </li>
         <li>
-          <strong>Work While Studying:</strong> International students can now
-          work up to 20 hours per week during the semester (up from 15 hours
-          previously), giving you more opportunities to support yourself
-          financially.
+          <strong style={{ color: "rgb(3, 60, 65)" }}>
+            • Work While Studying:
+          </strong>{" "}
+          International students can now work up to 20 hours per week during the
+          semester (up from 15 hours in the past), giving you more opportunities
+          to support yourself financially.
         </li>
       </ul>
 
-      <h2 style={{ fontWeight: "bold" }}>
-        <strong>Free Education in Germany – Eligibility, Benefits, and Advantages</strong>
-      </h2>
-      <p>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Free Education in Germany – Eligibility, Benefits, and Advantages
+      </h3>
+      <p style={{ marginBottom: "20px" }}>
         Germany is well-known for offering free education at public
         universities, making it an attractive option for international students.
         As of 2024, public universities in Germany still charge minimal fees
@@ -86,210 +115,271 @@ const Content = () => {
         and postgraduate programs in most cases.
       </p>
 
-      <h3 style={{ fontWeight: "bold" }}>Eligibility for Free Education</h3>
-      <ul>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Eligibility for Free Education:
+      </h3>
+      <p>
+        To qualify for free education in Germany, you need to meet the following
+        criteria:
+      </p>
+      <ul style={{ marginBottom: "20px" }}>
         <li>
-          <strong>Course Acceptance:</strong> You must be accepted into a
-          recognized public university in Germany.
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • Course Acceptance:
+          </strong>{" "}
+          You must be accepted into a recognized public university in Germany.
         </li>
         <li>
-          <strong>Visa Eligibility:</strong> Students applying for a free
-          education visa must meet the basic requirements set by the German
-          Embassy or Consulate in India.
+          <strong style={{ color: "rgb(3, 60, 65)" }}>• Visa Eligibility:</strong>{" "}
+          Students applying for a free education visa must meet the basic visa
+          requirements set by the German Embassy or Consulate in India.
         </li>
         <li>
-          <strong>German Language Proficiency:</strong> For many programs, you
-          will need to demonstrate proficiency in the German language (B1/B2
-          level) unless enrolling in an English-taught program.
+          <strong style={{ color: "rgb(3, 60, 65)" }}>
+            • German Language Proficiency:
+          </strong>
+          For many programs, especially at the undergraduate level, you will
+          need to demonstrate proficiency in the German language (typically
+          B1/B2 level) unless you are enrolling in an English-taught program.
         </li>
         <li>
-          <strong>Financial Proof:</strong> You must show proof of funds (approx.
-          €11,208/year) to cover living expenses.
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • Financial Proof:
+          </strong>{" "}
+          You must show that you have enough funds to cover your living expenses
+          (approx. €11,208 per year).
         </li>
       </ul>
 
-      <h3 style={{ fontWeight: "bold" }}>Benefits of Free Education</h3>
-      <ul>
-        <li>No Tuition Fees</li>
-        <li>High-Quality Education</li>
-        <li>Excellent Career Opportunities</li>
-        <li>Cultural and Research Hub</li>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Benefits and Advantages:
+      </h3>
+      <ul style={{ marginBottom: "20px" }}>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • No Tuition Fees:
+          </strong>{" "}
+          One of the biggest advantages is that you do not need to pay high
+          tuition fees at public universities.
+        </li>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)" }}>
+            • High-Quality Education:
+          </strong>{" "}
+          Germany offers some of the best educational programs globally,
+          especially in fields like engineering, business, science, and
+          technology.
+        </li>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)" }}>
+            • Excellent Career Opportunities:
+          </strong>
+          Many German universities have strong connections with industry
+          leaders, offering excellent internship and career prospects.
+        </li>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • Cultural and Research Hub:
+          </strong>{" "}
+          Germany is home to numerous multinational companies, research
+          institutions, and vibrant student life, which enriches your academic
+          experience.
+        </li>
       </ul>
 
-      <h2 style={{ fontWeight: "bold" }}>
-        <strong>Paid Education in Germany – Eligibility, Benefits, and Advantages</strong>
-      </h2>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Paid Education in Germany – Eligibility, Benefits, and Advantages
+      </h3>
       <p>
         While public universities offer free education, private universities in
-        Germany charge tuition fees ranging from €5,000 to €20,000 per year,
-        depending on the course and institution. These institutions often
-        provide niche, in-demand programs and a more personalized academic
-        experience.
+        Germany do charge tuition fees, which can range between €5,000 to
+        €20,000 per year depending on the program and institution. Private
+        institutions offer specialized programs, shorter durations, and
+        sometimes more personalized attention.
       </p>
 
-      <h3 style={{ fontWeight: "bold" }}>Eligibility for Paid Education</h3>
-      <ul>
-        <li>Acceptance into a private institution</li>
-        <li>Proof of financial resources and visa compliance</li>
-        <li>Tuition payment and living expense documentation</li>
-      </ul>
-
-      <h3 style={{ fontWeight: "bold" }}>Advantages</h3>
-      <ul>
-        <li>Specialized programs</li>
-        <li>Smaller class sizes</li>
-        <li>International recognition</li>
-      </ul>
-
-      <h2 style={{ fontWeight: "bold" }}>
-        <strong>Tuition Fees and Costs of Studying in Germany</strong>
-      </h2>
-      <ul>
-        <li>Public Universities: €250–€350 administrative fee per semester</li>
-        <li>Private Universities: €5,000–€20,000/year</li>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Eligibility for Paid Education:
+      </h3>
+      <p>
+        To pursue education at a private university in Germany, you must meet
+        the following criteria:
+      </p>
+      <ul style={{ marginBottom: "20px" }}>
         <li>
-          Living Expenses: €800–€1,200/month (includes accommodation, food, and
-          transport)
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • Acceptance into a Private University:
+          </strong>{" "}
+          You need to be accepted into a private university, which may have its
+          own specific admission requirements.
+        </li>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)" }}>• Visa Requirements:</strong>{" "}
+          Like public universities, you need to demonstrate sufficient financial
+          resources and meet visa requirements.
+        </li>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)" }}>• Financial Proof:</strong>
+          Tuition fees must be paid directly to the university, and you must
+          show proof of sufficient funds for your living expenses.
         </li>
       </ul>
 
-      <h2 style={{ fontWeight: "bold" }}>
-        <strong>Germany Study Visa Process from India</strong>
-      </h2>
-      <h3 style={{ fontWeight: "bold" }}>Step-by-step Guide:</h3>
-      <ul>
-        <li>University Admission: Apply and secure admission to a German university</li>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Benefits and Advantages:
+      </h3>
+      <ul style={{ marginBottom: "20px" }}>
         <li>
-          Document Preparation: Collect academic records, language certificates,
-          proof of funds
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • Specialized Programs:
+          </strong>{" "}
+          Private universities in Germany often offer niche, high-demand
+          programs that may not be available at public institutions.
         </li>
         <li>
-          Visa Application: Submit documents at the German
-          Embassy/Consulate and pay the fee
+          <strong style={{ color: "rgb(3, 60, 65)" }}>• Smaller Class Sizes:</strong>{" "}
+          With fewer students, you can expect more personalized attention from
+          professors and instructors.
         </li>
-        <li>Processing Time: Usually 6–8 weeks</li>
-        <li>Visa Interview: Present your academic and financial plans</li>
         <li>
-          Visa Approval: Once approved, you can legally reside and study in
-          Germany
+          <strong style={{ color: "rgb(3, 60, 65)" }}>
+            • International Recognition:
+          </strong>
+          Many private universities in Germany are internationally recognized
+          for their high-quality education, and some have strong connections to
+          global industries.
         </li>
       </ul>
 
-      <h2 style={{ fontWeight: "bold" }}>What Happens After Your Studies?</h2>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Tuition Fees and Costs of Studying in Germany:
+      </h3>
+      <ul>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)", fontWeight: "bolder" }}>
+            • Public Universities:
+          </strong>
+          While most public universities in Germany offer free education, you
+          will be required to pay an administrative fee (around €250-€350 per
+          semester).
+        </li>
+        <li>
+          <strong style={{ color: "rgb(3, 60, 65)" }}>• Private Universities:</strong>{" "}
+          Tuition fees for private universities range between €5,000 to €20,000
+          per year depending on the course and the university.
+        </li>
+      </ul>
+
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Living Expenses:
+      </h3>
+      <ul>
+        <li>
+          • On average, students need around €800-€1,200 per month for living
+          expenses, including accommodation, food, transport, and personal
+          costs.
+        </li>
+      </ul>
+
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Germany Study Visa Process from India
+      </h3>
       <p>
-        After graduation, you may become eligible to apply for the{" "}
-        <strong>
-          <a
-            href="https://vjcoverseas.com/work-abroad/germany-"
-            style={{ color: "#000", textDecoration: "underline" }}
-          >
-            Germany Skilled Worker Visa
-          </a>
-        </strong>
-        , which allows you to remain in Germany and gain employment relevant to
-        your qualifications. With enough work experience and integration, you
-        can further progress and eventually apply for the Germany PR Visa,
-        allowing permanent residency and broader career mobility.
+        The process of obtaining a study visa for Germany is relatively
+        straightforward, but it does require careful planning and preparation.
+        Here’s a step-by-step guide to the process:
       </p>
 
-      <h2 style={{ fontWeight: "bold" }}>Why Choose VJC Overseas?</h2>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Step 1: Get Accepted into a German University
+      </h3>
       <p>
-        At{" "}
-        <strong style={{ color: "orange" }}>
-          <a
-            href="https://vjcoverseas.com/"
-            style={{ color: "orange", textDecoration: "underline" }}
-          >
-            VJC Overseas
-          </a>
-        </strong>
-        , we provide end-to-end support to students across India who wish to
-        pursue higher education in Germany. Our personalized guidance makes us
-        one of the{" "}
-        <strong>
-          <a
-            href="https://vjcoverseas.com/"
-            style={{ color: "#000", textDecoration: "underline" }}
-          >
-            Best Visa Immigration Consultants
-          </a>
-        </strong>{" "}
-        in the country.
+        First, you need to apply and get accepted into a recognized university
+        in Germany. You will need to submit all necessary academic documents,
+        such as transcripts, letters of recommendation, and proof of language
+        proficiency.
       </p>
 
-      <h3 style={{ fontWeight: "bold" }}>Our Services Include:</h3>
-      <ul>
-        <li>University selection & application</li>
-        <li>Visa documentation & preparation</li>
-        <li>Accommodation assistance</li>
-        <li>Pre-departure guidance</li>
-        <li>Support for career and residency pathways</li>
-      </ul>
-
-      <h2 style={{ fontWeight: "bold" }}>Take the First Step Toward a Global Future with VJC Overseas</h2>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Step 2: Gather Required Documents
+      </h3>
       <p>
-        Whether you're planning to study in Germany, work, or settle long-term,{" "}
-        <strong style={{ color: "orange" }}>VJC Overseas</strong> is your
-        trusted partner for all things international education and immigration.
+        Once you are accepted, you will need the following documents to apply
+        for your student visa:
       </p>
 
-      {/* New Section Starts Here */}
-      <h2 style={{ fontWeight: "bold" }}>Germany Work Visa: Your Gateway to a Bright Future in Germany</h2>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Step 3: Apply for the Study Visa
+      </h3>
+      <ul>
+        <li>
+          • Visit the German Embassy or Consulate in India and submit your visa
+          application along with all required documents.
+        </li>
+        <li>• Pay the visa fee (approx. €75-€100).</li>
+        <li>• Schedule an appointment for a visa interview.</li>
+      </ul>
+
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Step 4: Visa Processing Time
+      </h3>
       <p>
-        At <strong style={{ color: "orange" }}>VJC Overseas</strong>, we are committed to turning your dreams of working in Germany into reality. As experts in immigration services, we understand the complexities of securing a{" "}
-        <strong>
-          <a
-            href="https://vjcoverseas.com/work-abroad/germany-"
-            style={{ color: "#000", textDecoration: "underline" }}
-          >
-            Germany Work Visa
-          </a>
-        </strong>{" "}
-        and the opportunities that come with it. With an outstanding success rate of securing visas every alternate day, we’ve become a trusted partner for thousands of professionals looking to advance their careers in Germany.
+        The processing time for a{" "}
+        <a
+          href="https://vjcoverseas.com/work-abroad/germany-work-permit/work-permit-visa"
+          target="_blank"
+          style={{ fontWeight: "bold" }}
+        >
+          Germany Skilled Worker Visa
+        </a>{" "}
+        or study visa generally takes about 6–8 weeks. However, it may vary
+        depending on the region and specific circumstances, so it is recommended
+        to apply as early as possible.
       </p>
 
-      <h3 style={{ fontWeight: "bold" }}>Why Choose VJC Overseas for Your Germany Work Visa?</h3>
-      <ul>
-        <li><strong>Unmatched Success Rate:</strong> We proudly process and secure Germany Work Visas every alternate day, helping professionals from various industries start their careers in Germany.</li>
-        <li><strong>Tailored Visa Solutions:</strong> Germany offers multiple work visa categories depending on your qualifications, experience, and job offer.</li>
-        <li><strong>Expert Guidance Through the Process:</strong> At <strong style={{ color: "orange" }}>VJC Overseas</strong>, we guide you every step of the way, from eligibility assessment to documentation preparation and follow-ups.</li>
-        <li><strong>Knowledge of the Latest Immigration Changes:</strong> We stay updated to ensure your application meets the latest requirements.</li>
-      </ul>
-
-      <h3 style={{ fontWeight: "bold" }}>Key Changes to Germany Work Visa Rule</h3>
-      <ul>
-        <li>Simplified Application Process for skilled workers, reducing paperwork and waiting time.</li>
-        <li>Expansion of Shortage Occupation List for IT, healthcare, engineering, and skilled trades.</li>
-        <li>Introduction of Digital Nomad Visa for remote workers employed by foreign companies.</li>
-        <li>Faster Processing Times due to Germany’s push to attract global talent.</li>
-      </ul>
-
-      <h3 style={{ fontWeight: "bold" }}>How VJC Overseas Can Help:</h3>
-      <ul>
-        <li>Eligibility Assessment</li>
-        <li>Documentation Support</li>
-        <li>Application Submission & Follow-up</li>
-        <li>Pre-Departure Assistance</li>
-      </ul>
-
-      <h3 style={{ fontWeight: "bold" }}>Success Stories from VJC Overseas Clients:</h3>
-      <ul>
-        <li>Maria S., IT Professional: Received her visa within 3 weeks and now works at a top tech company in Berlin.</li>
-        <li>Raj P., Mechanical Engineer: Secured a visa and started his role at a leading manufacturing firm in Munich.</li>
-        <li>Sophie K., Healthcare Worker: Now works as a nurse in one of Germany’s renowned hospitals.</li>
-      </ul>
-
-      <h3 style={{ fontWeight: "bold" }}>Why Germany?</h3>
-      <ul>
-        <li>A Thriving Job Market with high demand for skilled professionals.</li>
-        <li>World-Class Infrastructure with excellent public services.</li>
-        <li>Rich Cultural Heritage and an outstanding work-life balance.</li>
-      </ul>
-
-      <h2 style={{ fontWeight: "bold" }}>Start Your Germany Work Visa Journey with VJC Overseas Today!</h2>
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Step 5: Attend Visa Interview
+      </h3>
       <p>
-        Ready to take the first step? Contact <strong style={{ color: "orange" }}>VJC Overseas</strong> today for expert guidance and make your dream of working in Germany a reality!
+        During your visa interview, you may be asked questions about your study
+        plans, finances, and background. Be well-prepared to answer them clearly
+        and confidently.
       </p>
+
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Step 6: Visa Approval
+      </h3>
+      <p style={{ marginBottom: "20px" }}>
+        If your visa is approved, you will receive your German student visa,
+        which allows you to stay in Germany for the duration of your studies.
+      </p>
+
+      <h3 className="text-black font-bold mb-4 text-lg sm:text-xl">
+        Why Choose <span style={{ color: "orange", fontWeight: "bold" }}>VJC Overseas</span>?
+      </h3>
+      <p>
+        At <span style={{ color: "orange", fontWeight: "bold" }}>VJC Overseas</span>,
+        we specialize in helping Indian students navigate the entire process of
+        studying in Germany. From selecting the right university to visa
+        processing, and finding accommodation, we provide complete support and
+        ensure you have the best experience. Recognized as the{" "}
+        <a
+          href="https://vjcoverseas.com/"
+          target="_blank"
+          style={{ fontWeight: "bold", color: "#0d4d4d" }}
+        >
+          Best Visa Immigration Consultant
+        </a>
+        , our team is dedicated to making your dream of studying in Germany a
+        reality.
+      </p>
+      <h4>
+        For more information on the study visa process, eligibility, and support
+        for studying in Germany, contact{" "}
+        <a  href="https://vjcoverseas.com/"
+          target="_blank" style={{ color: "orange", fontWeight: "bold" }}>VJC Overseas</a>{" "}
+        today!
+      </h4>
     </div>
   );
 };
