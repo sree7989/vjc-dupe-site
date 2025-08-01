@@ -16,10 +16,7 @@ const Content = () => {
     >
       <div style={{ marginBottom: "40px" }}>
         <h3 className="text-2xl font-semibold text-black text-center">
-          Germany Work Visa -{" "}
-          <Link href="/">
-            <strong style={{ color: "orange" }}>VJC Overseas</strong>
-          </Link>
+          Germany Work Visa - <strong style={{ color: "orange" }}>VJC Overseas</strong>
         </h3>
       </div>
 
@@ -28,12 +25,8 @@ const Content = () => {
       </h3>
 
       <p style={{ marginBottom: "20px" }}>
-        At{" "}
-        <Link href="/">
-          <strong style={{ color: "orange" }}>VJC Overseas</strong>
-        </Link>
-        , we are committed to turning your dreams of working in Germany into reality. As{" "}
-        <Link href="/">
+        At <strong style={{ color: "orange" }}>VJC Overseas</strong>, we are committed to turning your dreams of working in Germany into reality. As{" "}
+        <Link href="https://vjcoverseas.com/">
           <strong>Best Visa Immigration Consultants</strong>
         </Link>
         , we understand the complexities of securing a Germany Work Visa and the
@@ -43,11 +36,7 @@ const Content = () => {
       </p>
 
       <h4 className="text-black font-semibold mb-2 text-md sm:text-lg">
-        Why Choose{" "}
-        <Link href="/">
-          <strong style={{ color: "orange" }}>VJC Overseas</strong>
-        </Link>{" "}
-        for Your Germany Work Visa?
+        Why Choose VJC Overseas for Your Germany Work Visa?
       </h4>
 
       <div
@@ -88,19 +77,15 @@ const Content = () => {
         </li>
         <li>
           <strong>Expert Guidance Through the Process:</strong> Applying for a
-          Germany Work Visa can be a complicated process. At{" "}
-          <Link href="/">
-            <strong style={{ color: "orange" }}>VJC Overseas</strong>
-          </Link>
-          , we guide you every step—from eligibility assessment to document
+          Germany Work Visa can be a complicated process. At VJC Overseas, we guide you every step—from eligibility assessment to document
           preparation and follow-ups.
         </li>
         <li>
           <strong>Knowledge of the Latest Immigration Changes:</strong> Germany’s
           policies are evolving. We stay updated so your application aligns with
           the latest requirements, including pathways like the{" "}
-          <Link href="/pr-visas/germany-blue-card">
-            <strong>Germany EU Blue Card</strong>
+          <Link href="https://vjcoverseas.com/pr-visas/germany-blue-card">
+            <strong>Germany PR Visa</strong>
           </Link>
           , which offers fast-track residence for highly skilled professionals.
         </li>
@@ -116,7 +101,7 @@ const Content = () => {
         <li>Faster processing to attract global talent.</li>
         <li>
           Flexible entry via the{" "}
-          <Link href="/work-abroad/germany-work-permit/job-seeker-visa">
+          <Link href="https://vjcoverseas.com/work-abroad/germany-work-permit/job-seeker-visa">
             <strong>Germany Job Seeker Visa</strong>
           </Link>
           , letting candidates enter Germany to find a job.
@@ -124,11 +109,7 @@ const Content = () => {
       </ul>
 
       <h4 className="text-black font-semibold mb-2 text-md sm:text-lg">
-        How{" "}
-        <Link href="/">
-          <strong style={{ color: "orange" }}>VJC Overseas</strong>
-        </Link>{" "}
-        Can Help:
+        How VJC Overseas Can Help:
       </h4>
       <ul>
         <li>
@@ -146,11 +127,18 @@ const Content = () => {
       </ul>
 
       <h4 className="text-black font-semibold mb-2 text-md sm:text-lg">
-        Success Stories from{" "}
-        <Link href="/">
-          <strong style={{ color: "orange" }}>VJC Overseas</strong>
+        Additional Services by VJC Overseas:
+      </h4>
+      <p style={{ marginBottom: "20px" }}>
+        From job search assistance to post-landing services,{" "}
+        <Link href="https://vjcoverseas.com/">
+          <strong>VJC Overseas</strong>
         </Link>{" "}
-        Clients:
+        offers a complete ecosystem to support your migration and settlement in Germany.
+      </p>
+
+      <h4 className="text-black font-semibold mb-2 text-md sm:text-lg">
+        Success Stories from VJC Overseas Clients:
       </h4>
       <p style={{ marginBottom: "20px" }}>
         <strong>Maria S., IT Professional:</strong> Received her visa in 3 weeks,
@@ -171,37 +159,20 @@ const Content = () => {
       </ul>
 
       <h4 className="text-black font-bold mb-4 text-lg sm:text-xl">
-        Start Your Germany Work Visa Journey with{" "}
-        <Link href="/">
-          <strong style={{ color: "orange" }}>VJC Overseas</strong>
-        </Link>{" "}
-        Today!
+        Start Your Germany Work Visa Journey with VJC Overseas Today!
       </h4>
       <p>
-        Whether you're applying for a{" "}
-        <Link href="/work-abroad/germany-work-permit/work-permit-visa">
-          <strong>Germany Skilled Worker Visa</strong>
-        </Link>
-        ,{" "}
-        <Link href="/work-abroad/germany-work-permit/job-seeker-visa">
-          <strong>Germany Job Seeker Visa</strong>
-        </Link>
-        , or{" "}
-        <Link href="/pr-visas/germany-blue-card">
-          <strong>Germany EU Blue Card</strong>
-        </Link>
-        ,{" "}
-        <Link href="/">
-          <strong style={{ color: "orange" }}>VJC Overseas</strong>
-        </Link>{" "}
-        is here to guide you through the process.
+        Whether you're applying for a Germany Skilled Worker Visa, Germany Job Seeker Visa, or Germany PR Visa, VJC Overseas is here to guide you through the process.
       </p>
       <p>
-        Speak to the{" "}
-        <Link href="/">
-          <strong>Best Visa Immigration Consultants</strong>
-        </Link>{" "}
-        today and take the first step toward your future in Germany.
+        Speak to the Best Visa Immigration Consultants today and take the first step toward your future in Germany.
+      </p>
+      <p style={{ marginTop: "20px" }}>
+        You can also explore options to{" "}
+        <Link href="https://vjcoverseas.com/study-abroad/germany">
+          <strong>Study in Germany</strong>
+        </Link>
+        , which offers world-class education and long-term settlement benefits.
       </p>
     </div>
   );
