@@ -236,6 +236,55 @@ const Content = () => {
         <strong style={{ color: "orange" }}>VJC Overseas</strong> is your
         trusted partner for all things international education and immigration.
       </p>
+
+      {/* New Section Starts Here */}
+      <h2>Germany Work Visa: Your Gateway to a Bright Future in Germany</h2>
+      <p>
+        At <strong style={{ color: "orange" }}>VJC Overseas</strong>, we are committed to turning your dreams of working in Germany into reality. As experts in immigration services, we understand the complexities of securing a <strong>Germany Work Visa</strong> and the opportunities that come with it. With an outstanding success rate of securing visas every alternate day, we’ve become a trusted partner for thousands of professionals looking to advance their careers in Germany.
+      </p>
+
+      <h3>Why Choose VJC Overseas for Your Germany Work Visa?</h3>
+      <ul>
+        <li><strong>Unmatched Success Rate:</strong> We proudly process and secure Germany Work Visas every alternate day, helping professionals from various industries start their careers in Germany.</li>
+        <li><strong>Tailored Visa Solutions:</strong> Germany offers multiple work visa categories depending on your qualifications, experience, and job offer.</li>
+        <li><strong>Expert Guidance Through the Process:</strong> At <strong style={{ color: "orange" }}>VJC Overseas</strong>, we guide you every step of the way, from eligibility assessment to documentation preparation and follow-ups.</li>
+        <li><strong>Knowledge of the Latest Immigration Changes:</strong> We stay updated to ensure your application meets the latest requirements.</li>
+      </ul>
+
+      <h3>Key Changes to Germany Work Visa Rule</h3>
+      <ul>
+        <li>Simplified Application Process for skilled workers, reducing paperwork and waiting time.</li>
+        <li>Expansion of Shortage Occupation List for IT, healthcare, engineering, and skilled trades.</li>
+        <li>Introduction of Digital Nomad Visa for remote workers employed by foreign companies.</li>
+        <li>Faster Processing Times due to Germany’s push to attract global talent.</li>
+      </ul>
+
+      <h3>How VJC Overseas Can Help:</h3>
+      <ul>
+        <li>Eligibility Assessment</li>
+        <li>Documentation Support</li>
+        <li>Application Submission & Follow-up</li>
+        <li>Pre-Departure Assistance</li>
+      </ul>
+
+      <h3>Success Stories from VJC Overseas Clients:</h3>
+      <ul>
+        <li>Maria S., IT Professional: Received her visa within 3 weeks and now works at a top tech company in Berlin.</li>
+        <li>Raj P., Mechanical Engineer: Secured a visa and started his role at a leading manufacturing firm in Munich.</li>
+        <li>Sophie K., Healthcare Worker: Now works as a nurse in one of Germany’s renowned hospitals.</li>
+      </ul>
+
+      <h3>Why Germany?</h3>
+      <ul>
+        <li>A Thriving Job Market with high demand for skilled professionals.</li>
+        <li>World-Class Infrastructure with excellent public services.</li>
+        <li>Rich Cultural Heritage and an outstanding work-life balance.</li>
+      </ul>
+
+      <h2>Start Your Germany Work Visa Journey with VJC Overseas Today!</h2>
+      <p>
+        Ready to take the first step? Contact <strong style={{ color: "orange" }}>VJC Overseas</strong> today for expert guidance and make your dream of working in Germany a reality!
+      </p>
     </div>
   );
 };
