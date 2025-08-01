@@ -11,9 +11,14 @@ const Content = () => {
         backgroundColor: "white",
         fontFamily: "Times New Roman",
         overflow: "hidden",
+        fontSize: "18px", // Reduced from 20px
       }}
     >
-      <p style={{ fontSize: "20px", marginBottom: "20px" }}>
+      <h1 style={{ textAlign: "center", fontSize: "26px", marginBottom: "30px", fontWeight: "bold" }}>
+        Germany Student Visa - <span style={{ color: "orange" }}>VJC Overseas</span>
+      </h1>
+
+      <p style={{ marginBottom: "20px" }}>
         Are you dreaming of{" "}
         <strong>
           <a
