@@ -24,7 +24,7 @@ const Content = () => {
         Dreaming of a fresh start in one of Europe’s strongest economies?{" "}
         <Link
           href="https://vjcoverseas.com/migrate/germany"
-          className="font-bold text-black hover:underline"
+          className="font-bold text-black no-underline hover:no-underline"
         >
           Migrate to Germany
         </Link>{" "}
@@ -43,7 +43,7 @@ const Content = () => {
           healthcare, and more through options like the{" "}
           <Link
             href="https://www.vjcoverseas.com/work-abroad/germany-work-permit/work-permit-visa"
-            className="font-bold text-black hover:underline"
+            className="font-bold text-black no-underline hover:no-underline"
           >
             Germany Skilled Worker Visa
           </Link>
@@ -64,7 +64,7 @@ const Content = () => {
           Explore long-term career growth and security through the{" "}
           <Link
             href="https://www.vjcoverseas.com/pr-visas/germany-blue-card"
-            className="font-bold text-black hover:underline"
+            className="font-bold text-black no-underline hover:no-underline"
           >
             Germany PR Visa
           </Link>
@@ -77,18 +77,12 @@ const Content = () => {
       </h3>
       <ul className="mb-5 list-disc pl-5 text-gray-800">
         <li>
-          <Link
-            href="https://www.vjcoverseas.com/work-abroad/germany-work-permit/work-permit-visa"
-            className="font-bold text-black hover:underline"
-          >
-            Germany Skilled Worker Visa
-          </Link>
-          : For professionals with recognized qualifications and work
-          experience.
+          Germany Skilled Worker Visa: For professionals with recognized
+          qualifications and work experience.
         </li>
         <li>
-          <strong className="text-black">Germany Opportunity Card:</strong>{" "}
-          A points-based pathway to live and work in Germany.
+          <strong className="text-black">Germany Opportunity Card:</strong> A
+          points-based pathway to live and work in Germany.
         </li>
         <li>
           <strong className="text-black">Student Visa:</strong> Study in
@@ -96,12 +90,7 @@ const Content = () => {
         </li>
         <li>
           <strong className="text-black">
-            <Link
-              href="https://vjcoverseas.com/migrate/germany"
-              className="font-bold text-black hover:underline"
-            >
-              Germany Job Seeker Visa
-            </Link>
+            Germany Job Seeker Visa
           </strong>
           : Stay in Germany for up to 6 months while finding employment.
         </li>
@@ -118,14 +107,14 @@ const Content = () => {
         At{" "}
         <Link
           href="https://www.vjcoverseas.com/"
-          className="text-orange-600 font-bold hover:underline"
+          className="font-bold text-orange-600 no-underline hover:no-underline"
         >
           VJC Overseas
         </Link>
         , one of{" "}
         <Link
           href="https://www.vjcoverseas.com/"
-          className="font-bold text-black hover:underline"
+          className="font-bold text-black no-underline hover:no-underline"
         >
           Best Visa Immigration Consultants
         </Link>
@@ -166,43 +155,11 @@ const Content = () => {
       </div>
 
       <p className="text-center font-medium">
-        Ready to{" "}
-        <Link
-          href="https://vjcoverseas.com/migrate/germany"
-          className="font-bold text-black hover:underline"
-        >
-          Migrate to Germany
-        </Link>
-        ? <br />
-        Choose{" "}
-        <Link
-          href="https://www.vjcoverseas.com/"
-          className="text-orange-600 font-bold hover:underline"
-        >
-          VJC Overseas
-        </Link>
-        , your trusted partner in global migration. Whether it's the{" "}
-        <Link
-          href="https://www.vjcoverseas.com/work-abroad/germany-work-permit/work-permit-visa"
-          className="font-bold text-black hover:underline"
-        >
-          Germany Skilled Worker Visa
-        </Link>
-        ,{" "}
-        <Link
-          href="https://vjcoverseas.com/migrate/germany"
-          className="font-bold text-black hover:underline"
-        >
-          Germany Job Seeker Visa
-        </Link>{" "}
-        or{" "}
-        <Link
-          href="https://www.vjcoverseas.com/pr-visas/germany-blue-card"
-          className="font-bold text-black hover:underline"
-        >
-          Germany PR Visa
-        </Link>{" "}
-        — we provide expert consultation and reliable visa processing support.
+        Ready to Migrate to Germany? <br />
+        Choose VJC Overseas, your trusted partner in global migration. Whether
+        it's the Germany Skilled Worker Visa, Germany Job Seeker Visa or Germany
+        PR Visa — we provide expert consultation and reliable visa processing
+        support.
       </p>
     </div>
   );
