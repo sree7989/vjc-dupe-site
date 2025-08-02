@@ -89,10 +89,8 @@ const Content = () => {
           top-ranked universities with global recognition.
         </li>
         <li>
-          <strong className="text-black">
-            Germany Job Seeker Visa
-          </strong>
-          : Stay in Germany for up to 6 months while finding employment.
+          <strong className="text-black">Germany Job Seeker Visa</strong>: Stay
+          in Germany for up to 6 months while finding employment.
         </li>
         <li>
           <strong className="text-black">Family Reunion Visa:</strong> Join your
@@ -105,13 +103,6 @@ const Content = () => {
       </h3>
       <p className="mb-5">
         At{" "}
-        <Link
-          href="https://www.vjcoverseas.com/"
-          className="font-bold text-orange-600 no-underline hover:no-underline"
-        >
-          VJC Overseas
-        </Link>
-        , one of{" "}
         <Link
           href="https://www.vjcoverseas.com/"
           className="font-bold text-black no-underline hover:no-underline"
@@ -156,10 +147,16 @@ const Content = () => {
 
       <p className="text-center font-medium">
         Ready to Migrate to Germany? <br />
-        Choose VJC Overseas, your trusted partner in global migration. Whether
-        it's the Germany Skilled Worker Visa, Germany Job Seeker Visa or Germany
-        PR Visa — we provide expert consultation and reliable visa processing
-        support.
+        Choose{" "}
+        <Link
+          href="https://www.vjcoverseas.com/"
+          className="font-bold text-black no-underline hover:no-underline"
+        >
+          VJC Overseas
+        </Link>
+        , your trusted partner in global migration. Whether it's the Germany
+        Skilled Worker Visa, Germany Job Seeker Visa or Germany PR Visa — we
+        provide expert consultation and reliable visa processing support.
       </p>
     </div>
   );
