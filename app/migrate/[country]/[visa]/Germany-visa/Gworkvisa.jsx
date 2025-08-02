@@ -95,7 +95,23 @@ const Content = () => {
         Key Changes to Germany Work Visa Rules
       </h4>
       <ul style={{ marginBottom: "20px" }}>
-        <li>Simplified application process for skilled workers.</li>
+        <li style={{ marginBottom: "15px" }}>
+          Simplified application process for skilled workers.
+        </li>
+
+        <li style={{ marginBottom: "15px" }}>
+          <strong style={{ color: "black" }}>
+            Explore the Germany Opportunity Card – A New Pathway to Work in Germany
+          </strong>
+          <br />
+          <br />
+          Germany has recently introduced the{" "}
+          <Link href="https://www.vjcoverseas.com/germany-opportunity-card">
+            <strong style={{ color: "orange" }}>Germany Opportunity Card</strong>
+          </Link>
+          , a points-based immigration pathway designed to attract skilled foreign professionals. This new initiative allows qualified individuals to enter Germany without a prior job offer, search for employment, and transition smoothly into the workforce. It's an ideal route for those who meet specific criteria in education, experience, language skills, and age. If you’re exploring flexible options to start your career in Germany, the <strong style={{ color: "black" }}>Germany Opportunity Card</strong> could be the perfect alternative to traditional work visas—offering freedom, opportunity, and a structured path.
+        </li>
+
         <li>Expansion of shortage occupation list for IT, healthcare, etc.</li>
         <li>Introduction of Digital Nomad Visa for remote workers.</li>
         <li>Faster processing to attract global talent.</li>
