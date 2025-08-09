@@ -15,7 +15,8 @@ const Content = () => {
         marginTop: "-7%",
       }}
     >
-      <div style={{ marginBottom: "40px" }}>
+      <div style={{ marginBottom: "40px", marginTop: "20px" }}>
+
         <h3 className="text-2xl font-semibold text-black text-center">
           UK Sponsorship Visa -{" "}
           <span style={{ color: "rgb(220, 4, 4)" }}>VJC Overseas</span>
