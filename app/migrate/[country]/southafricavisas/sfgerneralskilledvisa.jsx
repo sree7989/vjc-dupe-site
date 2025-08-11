@@ -42,7 +42,7 @@ const Newzebusiness = () => {
         </p>
         <ul className="list-disc list-inside mb-6 space-y-2 text-gray-700">
           <li><strong>Business Visa:</strong> For investors or entrepreneurs who wish to start or acquire a business</li>
-          <li><strong>Study Visa:</strong> For international students planning to <a href="https://www.vjcoverseas.com/study-abroad/southafrica" className="text-orange-600" target="_blank">study in South Africa</a> at an accredited institution</li>
+          <li><strong>Study Visa:</strong> For international students planning to <a href="https://www.vjcoverseas.com/study-abroad/southafrica" className="text-orange-600" target="_blank">Study in South Africa</a> at an accredited institution</li>
           <li><strong>Relative’s & Spousal Visa:</strong> For spouses, partners, or dependents of South African citizens or permanent residents</li>
           <li><strong>Permanent Residency Permit:</strong> For applicants who qualify through work, investment, or long-term residence</li>
         </ul>
