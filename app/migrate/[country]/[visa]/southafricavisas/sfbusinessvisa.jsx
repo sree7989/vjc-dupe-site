@@ -25,7 +25,7 @@ const Newzebusiness = () => {
             <h2 className="text-1xl font-semibold mt-6">Why Choose South Africa for Your Business?</h2>
             <p className="mb-4">
                 South Africa is one of the most dynamic economies on the African continent and a gateway to opportunities across the Southern African Development Community (SADC). As a thriving hub for international trade, innovation, and industry, South Africa offers unmatched potential for business growth and expansion. Many entrepreneurs also consider options to{" "}
-                <Link href="https://vjcoverseas.com/Migrate/south-africa/" className="text-orange-500">
+                <Link href="https://vjcoverseas.com/migrate/south-africa/" className="text-orange-500">
                     Migrate to South Africa
                 </Link>{" "}
                 to secure long-term residency while building their enterprises.
