@@ -97,10 +97,13 @@ const Denbusiness = () => {
         </ul>
 
         <p className="mb-6">
-          These requirements also help lay the foundation for other future immigration options, such as applying for a{" "}
-          <a href="https://www.vjcoverseas.com/migrate/denmark/work-permit-visa" style={{ color: "orange", fontWeight: "bold" }}>Denmark Work Permit Visa</a> 
-          or exploring pathways to <b>Migrate to Denmark</b> permanently.
-        </p>
+  These requirements also help lay the foundation for other future immigration options, such as applying for a{" "}
+  <a href="https://www.vjcoverseas.com/migrate/denmark/work-permit-visa" style={{ color: "orange", fontWeight: "bold" }}>
+    Denmark Work Permit Visa
+  </a>{" "}
+  or exploring pathways to <b>Migrate to Denmark</b> permanently.
+</p>
+
 
         <h4 className="mb-6 text-sky-700">
           Denmark Business Visa Processing Time
