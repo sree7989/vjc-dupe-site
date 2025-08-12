@@ -234,16 +234,11 @@ const UAEtourist = () => {
         plan to live, work, or study in the UAE, we are here to guide you every
         step of the way.
       </p>
-      <p>
-        +91-9160449000 |{" "}
-        <a
-          href="http://www.vjcoverseas.com"
-          className="text-blue-500"
-          style={{ textDecoration: "none" }}
-        >
-          www.vjcoverseas.com
-        </a>
-      </p>
+     <p>
+  +91-9160449000
+</p>
+
+
 
       <hr style={{ borderColor: "black" }} className="mb-6" />
       <p className="mb-6">
