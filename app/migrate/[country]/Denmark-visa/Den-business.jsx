@@ -241,17 +241,6 @@ const Denbusiness = () => {
         </ul>
       </div>
 
-      {/* Bold, non-linked keyword repetitions (dark black) */}
-      <div className="mb-6">
-        <p className="mb-2">
-          <b style={{ color: "black" }}>Best Visa Immigration Consultants</b>,{" "}
-          <b style={{ color: "black" }}>VJC Overseas</b>,{" "}
-          <b style={{ color: "black" }}>Study in Denmark</b>,{" "}
-          <b style={{ color: "black" }}>Denmark Student Visa</b>,{" "}
-          <b style={{ color: "black" }}>Denmark Work Permit Visa</b>
-        </p>
-      </div>
-
       <div className="mb-6">
         <h3 className="mb-6 text-sky-700">Start Your Denmark Journey Today</h3>
 
