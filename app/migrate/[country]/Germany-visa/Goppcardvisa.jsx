@@ -23,7 +23,7 @@ const Content = () => {
       <p style={{ marginBottom: "20px" }}>
         Dreaming of a fresh start in one of Europe’s strongest economies?{" "}
         <Link
-          href="https://vjcoverseas.com/migrate/germany"
+          href="https://www.vjcoverseas.com/migrate/germany"
           className="font-bold no-underline hover:no-underline"
           style={{ color: "orange" }}
         >
