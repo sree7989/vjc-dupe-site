@@ -3,10 +3,14 @@ import Image from "next/image";
 
 const CanadaStudentVisa = () => {
   return (
-    <div className="max-w-6xl mx-auto px-4 py-10 -mt-10" style={{ fontFamily: 'Times New Roman, serif' }}>
+    <div
+      className="max-w-6xl mx-auto px-4 py-10 -mt-10"
+      style={{ fontFamily: "Times New Roman, serif" }}
+    >
       {/* Heading */}
       <h1 className="flex justify-center text-lg sm:text-2xl md:text-2xl font-bold mb-4 text-center whitespace-nowrap">
-        Study in Canada - <span className="text-orange-500">&nbsp;VJC Overseas</span>
+        Study in Canada -{" "}
+        <span className="text-orange-500">&nbsp;VJC Overseas</span>
       </h1>
 
       {/* Image and Intro Text Side by Side */}
@@ -27,7 +31,20 @@ const CanadaStudentVisa = () => {
         {/* Text */}
         <div className="md:w-1/2 text-justify">
           <p className="mb-4">
-            Canada is a top destination for international students, offering a high standard of education, a welcoming multicultural environment, and numerous opportunities for career growth. If you’re planning to study in Canada, obtaining a Canada Student Visa (Study Permit) is an essential step. <span className="text-orange-600">VJC Overseas</span> guides you through the process, ensuring a smooth and successful application journey.
+            Canada is a top destination for international students, offering a
+            high standard of education, a welcoming multicultural environment,
+            and numerous opportunities for career growth. If you’re planning to
+            study in Canada, obtaining a{" "}
+            <a
+              href="https://vjcoverseas.com/study-abroad/canada"
+              className="text-orange-600"
+            >
+              Canada Student Visa Consultants
+            </a>{" "}
+            (Study Permit) is an essential step.{" "}
+            <strong className="text-black">VJC Overseas</strong> guides you
+            through the process, ensuring a smooth and successful application
+            journey.
           </p>
         </div>
       </div>
@@ -40,13 +57,22 @@ const CanadaStudentVisa = () => {
         <li>
           <strong>Proof of Acceptance from a Recognized Institution:</strong>
           <ul className="list-disc pl-6">
-            <li>You must have an acceptance letter from a Designated Learning Institution (DLI) in Canada.</li>
+            <li>
+              You must have an acceptance letter from a{" "}
+              <strong className="text-black">
+                Designated Learning Institution (DLI)
+              </strong>{" "}
+              in Canada.
+            </li>
           </ul>
         </li>
         <li>
           <strong>Sufficient Financial Resources:</strong>
           <ul className="list-disc pl-6">
-            <li>You must demonstrate funds for tuition, living expenses, and return travel.</li>
+            <li>
+              You must demonstrate funds for tuition, living expenses, and
+              return travel.
+            </li>
             <li>Approx. CAD 10,000 (excluding Quebec); extra for dependents.</li>
           </ul>
         </li>
@@ -59,7 +85,10 @@ const CanadaStudentVisa = () => {
         <li>
           <strong>Health and Medical Requirements:</strong>
           <ul className="list-disc pl-6">
-            <li>Medical exams may be needed depending on your country or stay duration.</li>
+            <li>
+              Medical exams may be needed depending on your country or stay
+              duration.
+            </li>
           </ul>
         </li>
         <li>
@@ -71,7 +100,9 @@ const CanadaStudentVisa = () => {
         <li>
           <strong>Language Proficiency:</strong>
           <ul className="list-disc pl-6">
-            <li>IELTS, TOEFL, TEF may be required based on institution language.</li>
+            <li>
+              IELTS, TOEFL, TEF may be required based on institution language.
+            </li>
           </ul>
         </li>
       </ul>
@@ -113,7 +144,22 @@ const CanadaStudentVisa = () => {
         Why Choose <span className="text-orange-600">VJC Overseas</span>?
       </h2>
       <p className="mb-4">
-        At <span className="text-orange-600">VJC Overseas</span>, we understand that the process of applying for a Canadian student visa can be overwhelming. Our experts offer step-by-step guidance, personalized counselling, and help you choose the right course and institution in Canada.
+        At <strong className="text-black">VJC Overseas</strong>, we understand
+        that the process of applying for a Canadian student visa can be
+        overwhelming. Our experts offer step-by-step guidance, personalized
+        counselling, and help you choose the right course and institution in
+        Canada. We are recognized as one of the{" "}
+        <a href="https://vjcoverseas.com/" className="text-orange-600">
+          Best Visa Immigration Consultants
+        </a>{" "}
+        with years of proven experience. We also assist with{" "}
+        <a
+          href="https://vjcoverseas.com/work-abroad/canada-work-permit"
+          className="text-orange-600"
+        >
+          Canada Work permit visa
+        </a>{" "}
+        guidance for students planning to work after graduation.
       </p>
 
       {/* Call to Action */}
@@ -121,8 +167,30 @@ const CanadaStudentVisa = () => {
         Get in Touch Today!
       </h2>
       <p>
-        Start your journey to studying in Canada with the trusted experts at <span className="text-orange-600">VJC Overseas</span>. Contact us today for a consultation and take the first step toward your Canadian dream!
+        Start your journey to studying in Canada with the trusted experts at{" "}
+        <a
+          href="https://vjcoverseas.com/study-abroad"
+          className="text-orange-600"
+        >
+          Study Visa Consultants
+        </a>
+        . Contact us today for a consultation and take the first step toward
+        your Canadian dream!
       </p>
+
+      {/* New Final Paragraph */}
+      <div className="mt-6">
+        <h2 className="text-black font-bold mb-2">Start Your Journey Today</h2>
+        <p>
+          Your Canadian dream is just a step away. Partner with{" "}
+          <a href="https://vjcoverseas.com/" className="text-orange-600">
+            VJC Overseas
+          </a>{" "}
+          – the experts who turn aspirations into reality. Contact us today for
+          a consultation and take the first confident step toward your
+          international education.
+        </p>
+      </div>
     </div>
   );
 };
