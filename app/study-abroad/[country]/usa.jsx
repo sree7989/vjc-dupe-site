@@ -30,7 +30,6 @@ const USAStudyVisa = () => {
       </p>
 
       <h2 className="text-xl font-semibold mb-2">Why Study in the USA?</h2>
-
       <div className="flex flex-col md:flex-row gap-6 mt-4 mb-6">
         <div className="md:w-1/2 w-full">
           <div className="relative w-full h-[250px] md:h-[460px]">
@@ -164,22 +163,6 @@ const USAStudyVisa = () => {
         community ensures a multicultural environment where you can make
         lifelong friends and broaden your worldview.
       </p>
-      <p className="mb-4">
-        Moreover, US universities often have resources to support international
-        students, including student clubs, cultural events, and career services.
-        Many institutions also offer opportunities for internships, research
-        assistantships, and part-time jobs that can help you gain valuable work
-        experience and offset living costs. For those exploring alternatives,
-        the{" "}
-        <a
-          href="https://vjcoverseas.com/migrate/germany/opportunity-card"
-          className="text-orange-500"
-          style={{ textDecoration: "none" }}
-        >
-          Germany Opportunity Card
-        </a>{" "}
-        is another excellent pathway for education and career growth.
-      </p>
 
       <h2 className="text-xl font-semibold mb-2">
         Processing Time for USA Study Visa
@@ -208,7 +191,16 @@ const USAStudyVisa = () => {
       </ul>
       <p className="mb-4">
         It’s important to start the process early to ensure there’s enough time
-        to prepare for your studies in the USA.
+        to prepare for your studies in the USA. If you are also considering
+        options in Europe, you may{" "}
+        <a
+          href="https://vjcoverseas.com/study-abroad/uk"
+          className="text-orange-500"
+          style={{ textDecoration: "none" }}
+        >
+          Study in UK
+        </a>{" "}
+        for another world-class education opportunity.
       </p>
 
       <h2 className="text-xl font-semibold mb-2">Visa Fees</h2>
@@ -253,9 +245,9 @@ const USAStudyVisa = () => {
         We understand how overwhelming it can be to plan your studies abroad,
         and our experienced team is committed to making your journey smooth and
         successful. Reach out to{" "}
-        <span className="font-bold text-black">VJC Overseas</span> today to start
-        your application process for a USA Study Visa and take the first step
-        toward your dream education.
+        <span className="font-bold text-black">VJC Overseas</span> today to
+        start your application process for a USA Study Visa and take the first
+        step toward your dream education.
       </p>
 
       <p className="text-sm italic">
