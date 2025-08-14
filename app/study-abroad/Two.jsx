@@ -61,15 +61,9 @@ const Migrate = () => {
 
   return (
     <div className="relative pt-10 w-full min-h-screen">
-      {/* Background Animated GIF with Next.js Image */}
+      {/* Background Animated GIF */}
       <div className="fixed top-0 left-0 w-full h-full -z-10 overflow-hidden">
-        <video
-          autoPlay
-          loop
-          muted
-          playsInline
-          className="w-full h-full object-cover"
-        >
+        <video autoPlay loop muted playsInline className="w-full h-full object-cover">
           <source src="/jobseeker.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
@@ -112,7 +106,7 @@ const Migrate = () => {
                       >
                         <Image
                           src={visa.image}
-                          alt={visa.name}
+                          alt="study Abroad"
                           fill
                           className="object-cover object-center"
                           quality={100}
@@ -138,20 +132,23 @@ const Migrate = () => {
         {/* Bottom Section */}
         <div className="mt-16 bg-gradient-to-r from-white/50 to-white/50 p-8 rounded-2xl shadow-lg text-center">
           <h3 className="text-2xl font-bold text-black mb-4">
-            Study Abroad with <span className="text-orange-500">VJC Overseas:</span> Your Global Education Partner
+            Study Abroad with <span className="text-orange-500">VJC Overseas</span>: Your Global Education Partner
           </h3>
 
-          {/* 1️⃣ First Change: Remove link, make bold black */}
           <p className="text-black text-lg max-w-4xl mx-auto mb-4">
-            At <span className="font-bold text-black">VJC Overseas</span>, we believe education is far more than what you learn from textbooks — it’s about exploring the world, gaining diverse experiences, and preparing yourself for a future without borders. Choosing to study abroad is a big decision, and having the <Link href="https://www.vjcoverseas.com/" className="text-orange-500">Best Visa Immigration Consultants</Link> by your side makes the entire journey smoother, more secure, and more rewarding.
+            At <Link href="https://www.vjcoverseas.com/" className="text-orange-500">VJC Overseas</Link>, we believe that education is a transformative journey that goes far beyond textbooks and classrooms. It’s about immersing yourself in a new culture, gaining global exposure, and building skills that prepare you for a competitive international career.
           </p>
 
           <p className="text-black text-lg max-w-4xl mx-auto mb-4">
-            Our comprehensive Study Abroad services are designed to guide students through every stage of their international education journey. From helping you shortlist universities to assisting with visa applications, we ensure a seamless experience that allows you to focus on your academic and personal growth.
+            Our dedicated team works as experienced <Link href="https://www.vjcoverseas.com/study-abroad/canada" className="text-orange-500">Student Visa Consultants</Link>, guiding students from the moment they start researching options to the day they step onto a foreign campus. Whether your goal is a short-term exchange program or a full-fledged degree, we provide comprehensive, personalized support at every stage.
           </p>
 
           <p className="text-black text-lg max-w-4xl mx-auto mb-4">
-            We have partnerships with top universities and educational institutions across the globe, giving you access to world-class undergraduate, postgraduate, and diploma programs in countries such as:
+            Recognized among the <Link href="https://www.vjcoverseas.com/" className="text-orange-500">Best Visa Immigration Consultants</Link>, our approach is built on a track record of success, transparent guidance, and strong partnerships with world-class institutions. We tailor our recommendations to match your academic background, budget, and career goals.
+          </p>
+
+          <p className="text-black text-lg max-w-4xl mx-auto mb-4">
+            We collaborate with top universities across the globe, offering access to undergraduate, postgraduate, and diploma programs in destinations such as:
           </p>
 
           {/* Countries List */}
@@ -169,27 +166,26 @@ const Migrate = () => {
           </div>
 
           <p className="text-black text-lg max-w-4xl mx-auto mb-4">
-            Beyond academics, studying abroad also opens doors to countless <Link href="https://vjcoverseas.com/work-abroad" className="text-orange-500">Work Abroad Opportunities</Link>, allowing you to gain international work experience alongside your education. Our expert counsellors not only help you choose the right course but also guide you on career prospects, internships, and part-time work regulations in your destination country.
+            As professional <Link href="https://www.vjcoverseas.com/study-abroad/usa" className="text-orange-500">Study Abroad Consultants</Link>, we provide more than just a list of universities. We offer in-depth advice on admission requirements, scholarship opportunities, course selection, and future career pathways, and we help you plan finances effectively by considering tuition fees, living expenses, and available funding options.
           </p>
 
           <p className="text-black text-lg max-w-4xl mx-auto mb-4">
-            For students aspiring to study in Germany, we also assist with related visa programs such as the <Link href="https://vjcoverseas.com/migrate/germany/opportunity-card" className="text-orange-500">Germany Opportunity Card</Link>, which can help you explore both academic and professional avenues in one of Europe’s most dynamic economies.
+            Opting to <Link href="https://www.vjcoverseas.com/study-abroad/australia" className="text-orange-500">Study in Abroad</Link> locations opens the door to countless opportunities — from accessing advanced research facilities to learning from globally recognized faculty. International exposure helps students develop adaptability, cross-cultural communication skills, and a strong professional network that can be leveraged anywhere in the world.
+          </p>
+
+          {/* Student Visa Process (replaces any previous Germany Opportunity Card content) */}
+          <p className="text-black text-lg max-w-4xl mx-auto mb-4">
+            We understand that the <Link href="https://www.vjcoverseas.com/study-abroad/italy" className="text-orange-500">Student Visa Process</Link> can seem daunting, with multiple forms, interviews, and financial proofs involved. Our team ensures you meet all requirements and deadlines without stress — from preparing documents and booking visa interviews to offering mock interview sessions — so you feel confident and ready.
           </p>
 
           <p className="text-black text-lg max-w-4xl mx-auto mb-4">
-            Australia remains another top choice for many international students, offering world-class education and a welcoming lifestyle. If you are looking to build both your education and career there, we can guide you through every step to <Link href="https://vjcoverseas.com/migrate/australia" className="text-orange-500">Migrate to Australia</Link> and make the most of your academic investment.
+            Your study abroad experience doesn’t end with receiving your visa. We assist with finding suitable accommodation, understanding local culture, and connecting you with student communities. Whether it’s a bustling city campus or a quiet university town, we help you adapt smoothly to your new environment.
           </p>
 
-          <p className="text-black text-lg max-w-4xl mx-auto mb-4">
-            Our services go beyond securing admission. We assist with cultural integration, connect you to local student communities, and support you with accommodation, travel arrangements, and essential resources. This ensures you feel at home, no matter where in the world your education takes you.
-          </p>
-
-          {/* 2️⃣ Second Change: Keep keyword orange + link */}
           <p className="text-black text-lg max-w-4xl mx-auto mb-6">
-            Studying abroad is more than just earning a degree — it’s a life-changing journey. With <Link href="https://www.vjcoverseas.com/" className="text-orange-500">VJC Overseas</Link>, you’re not just choosing an education provider; you’re choosing a trusted partner committed to shaping your global future.
+            Studying abroad is more than just an academic step — it’s a life-changing investment in your future. With <b className="text-black">VJC Overseas</b> by your side, you gain a partner who is as committed to your success as you are. From your first consultation to your first day in class, we ensure your journey is rewarding, memorable, and stress-free.
           </p>
 
-          {/* 3️⃣ Third Change: Add final line in white */}
           <h3 className="text-2xl font-bold text-white mb-4">
             Start your global education journey with VJC Overseas today!
           </h3>
