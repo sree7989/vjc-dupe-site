@@ -1,38 +1,40 @@
 import React from "react";
 import Image from 'next/image';
+
 const UKStudyGuide = () => {
   return (
     <div className="max-w-6xl mx-auto px-4 py-10 -mt-10" style={{ fontFamily: 'Times New Roman, serif' }}>
-                 <h1 className="flex justify-center text-lg sm:text-2xl md:text-2xl font-bold mb-8 text-center whitespace-nowrap">
-                Study in the UK - <span className="text-orange-500">&nbsp;VJC Overseas</span>
-                 </h1>
+      <h1 className="flex justify-center text-lg sm:text-2xl md:text-2xl font-bold mb-8 text-center whitespace-nowrap">
+        Study in the UK - <span className="text-orange-500">&nbsp;VJC Overseas</span>
+      </h1>
+
       <div className="flex flex-col md:flex-row gap-6">
-      <div className="w-full md:w-[45%]  mt-8 h-full">
-        <div className="relative w-full h-full min-h-[300px] md:min-h-[200px]">
-          <Image
-            src="/study-in-uk.jpg" // Make sure this exists inside /public
-            alt="Study in UK"
-            fill
-            className=" object-cover"
-            sizes="(max-width: 698px) 100vw, 45vw"
-            priority
-            unoptimized
-          />
+        <div className="w-full md:w-[45%]  mt-8 h-full">
+          <div className="relative w-full h-full min-h-[300px] md:min-h-[200px]">
+            <Image
+              src="/study-in-uk.jpg" // Make sure this exists inside /public
+              alt="Study in UK"
+              fill
+              className=" object-cover"
+              sizes="(max-width: 698px) 100vw, 45vw"
+              priority
+              unoptimized
+            />
+          </div>
         </div>
-      </div>
 
         {/* Content Section */}
         <div className="md:w-2/3 w-full">
           <p className="mb-2">
-            The UK has long been a favourite destination for international students seeking world-class education, cultural diversity, and outstanding career opportunities. With its rich history, vibrant cities, and renowned institutions, it’s no wonder that the UK remains one of the top choices for students worldwide. If you’re considering studying in the UK, this guide provides an overview of the UK study visa process, some top universities, their fee structures, and the admission process to help you navigate your journey from application to graduation.
+            The UK has long been a favourite destination for international students seeking world-class education, cultural diversity, and outstanding career opportunities. With its rich history, vibrant cities, and renowned institutions, it’s no wonder that the UK remains one of the top choices for students worldwide. Partnering with <a href="https://www.vjcoverseas.com/" style={{ color: "orange", textDecoration: "none" }}>Best Visa Immigration Consultants</a> ensures your journey is smooth and successful. If you’re considering <a href="https://vjcoverseas.com/study-abroad" style={{ color: "orange", textDecoration: "none" }}>Study Abroad</a> in the UK, this guide provides an overview of the UK study visa process, top universities, fee structures, and the admission process to help you navigate your journey from application to graduation.
           </p>
-           
         </div>
       </div>
+
       {/* Visa Section */}
       <h2 className="text-xl font-bold text-black mt-4 mb-2">UK Study Visa: An Overview</h2>
       <ol className="list-decimal pl-6 space-y-2">
-        <li>Choose Your Course and University: You must be accepted into a recognized UK institution and obtain a Confirmation of Acceptance for Studies (CAS).</li>    
+        <li>Choose Your Course and University: You must be accepted into a recognized UK institution and obtain a Confirmation of Acceptance for Studies (CAS).</li>
         <li>
           Check Visa Requirements:
           <ul className="list-disc pl-6">
@@ -41,8 +43,6 @@ const UKStudyGuide = () => {
             <li>Meet English language requirements (IELTS/TOEFL)</li>
           </ul>
         </li>
-         
-       
         <li>
           Complete Visa Application:
           <ul className="list-disc pl-6">
@@ -100,18 +100,26 @@ const UKStudyGuide = () => {
         <li>London: £1,200 – £1,800/month</li>
         <li>Outside London: £900 – £1,300/month</li>
         <li>Cost includes housing, food, transport, leisure</li>
-        <li>Students can work part-time (up to 20 hrs/week)</li>
+        <li>Students can work part-time (up to 20 hrs/week), gaining valuable experience that can lead to <a href="https://vjcoverseas.com/work-abroad" style={{ color: "orange", textDecoration: "none" }}>Work Abroad Opportunities</a> after graduation.</li>
       </ul>
 
       {/* Conclusion */}
       <h2 className="text-xl font-bold text-blue-500 mt-4 mb-2">Conclusion</h2>
       <p className="mb-4">
-        Studying in the UK offers not just an academic challenge but also an opportunity to immerse yourself in a rich cultural experience. With a well-structured visa process, world-renowned universities, and a diverse student community, the UK is an excellent choice for international students.
+        Studying in the UK offers not just an academic challenge but also an opportunity to immerse yourself in a rich cultural experience. With a well-structured visa process, world-renowned universities, and a diverse student community, the UK is an excellent choice for international students. Some also explore <a href="https://vjcoverseas.com/study-abroad/usa" style={{ color: "orange", textDecoration: "none" }}>Study in USA</a> as an alternative or additional option.
       </p>
 
-      <p className="mb-4 font-semibold text-orange-500">
-        At <span className="text-orange-500 font-bold">VJC Overseas</span>, we specialize in helping students navigate every step of the study abroad process—from selecting the right university to obtaining your visa and arriving in the UK. Contact us today to get started on your path to studying in the UK!
-      </p>
+      <p className="mb-4 font-semibold">
+  Start your UK Study Visa application with{" "}
+  <a 
+    href="https://www.vjcoverseas.com/" 
+    style={{ color: "orange", textDecoration: "none" }}
+  >
+    VJC Overseas
+  </a>{" "}
+  today and take the first step toward an exceptional academic future.
+</p>
+
     </div>
   );
 };
