@@ -21,8 +21,15 @@ const USAStudyVisa = () => {
         >
           VJC Overseas
         </a>{" "}
-        is here to guide you through the entire process of securing a USA Study
-        Visa, from understanding the financial aspects to navigating the visa
+        is here to guide you through the entire process of securing a{" "}
+        <a
+          href="https://vjcoverseas.com/migrate/united-states/student-visa"
+          className="text-orange-500"
+          style={{ textDecoration: "none" }}
+        >
+          USA student visa
+        </a>
+        , from understanding the financial aspects to navigating the visa
         application process. Whether you're aiming for an undergraduate degree,
         a master's program, or even a specialized course, we provide all the
         necessary information and support to help you achieve your academic
@@ -30,6 +37,7 @@ const USAStudyVisa = () => {
       </p>
 
       <h2 className="text-xl font-semibold mb-2">Why Study in the USA?</h2>
+
       <div className="flex flex-col md:flex-row gap-6 mt-4 mb-6">
         <div className="md:w-1/2 w-full">
           <div className="relative w-full h-[250px] md:h-[460px]">
@@ -76,13 +84,9 @@ const USAStudyVisa = () => {
               appropriate.
               <br />
               Regardless of the type of visa,{" "}
-              <a
-                href="https://www.vjcoverseas.com/"
-                className="text-orange-500 font-semibold"
-                style={{ textDecoration: "none" }}
-              >
+              <span className="font-bold text-black">
                 Best Visa Immigration Consultants
-              </a>{" "}
+              </span>{" "}
               will help you determine the right one based on your course of
               study.
             </p>
@@ -191,16 +195,7 @@ const USAStudyVisa = () => {
       </ul>
       <p className="mb-4">
         It’s important to start the process early to ensure there’s enough time
-        to prepare for your studies in the USA. If you are also considering
-        options in Europe, you may{" "}
-        <a
-          href="https://vjcoverseas.com/study-abroad/uk"
-          className="text-orange-500"
-          style={{ textDecoration: "none" }}
-        >
-          Study in UK
-        </a>{" "}
-        for another world-class education opportunity.
+        to prepare for your studies in the USA.
       </p>
 
       <h2 className="text-xl font-semibold mb-2">Visa Fees</h2>
@@ -245,9 +240,16 @@ const USAStudyVisa = () => {
         We understand how overwhelming it can be to plan your studies abroad,
         and our experienced team is committed to making your journey smooth and
         successful. Reach out to{" "}
-        <span className="font-bold text-black">VJC Overseas</span> today to
-        start your application process for a USA Study Visa and take the first
-        step toward your dream education.
+        <span className="font-bold text-black">VJC Overseas</span>, one of the{" "}
+        <a
+          href="https://www.vjcoverseas.com/"
+          className="text-orange-500"
+          style={{ textDecoration: "none" }}
+        >
+          Best Visa Immigration Consultants
+        </a>{" "}
+        today to start your application process for a USA Study Visa and take
+        the first step toward your dream education.
       </p>
 
       <p className="text-sm italic">
