@@ -12,7 +12,7 @@ const UKStudyGuide = () => {
         <div className="w-full md:w-[45%]  mt-8 h-full">
           <div className="relative w-full h-full min-h-[300px] md:min-h-[200px]">
             <Image
-              src="/study-in-uk.jpg" // Make sure this exists inside /public
+              src="/study-in-uk.jpg"
               alt="Study in UK"
               fill
               className=" object-cover"
@@ -26,7 +26,7 @@ const UKStudyGuide = () => {
         {/* Content Section */}
         <div className="md:w-2/3 w-full">
           <p className="mb-2">
-            The UK has long been a favourite destination for international students seeking world-class education, cultural diversity, and outstanding career opportunities. With its rich history, vibrant cities, and renowned institutions, it’s no wonder that the UK remains one of the top choices for students worldwide. Partnering with <a href="https://www.vjcoverseas.com/" style={{ color: "orange", textDecoration: "none" }}>Best Visa Immigration Consultants</a> ensures your journey is smooth and successful. If you’re considering <a href="https://vjcoverseas.com/study-abroad" style={{ color: "orange", textDecoration: "none" }}>Study Abroad</a> in the UK, this guide provides an overview of the UK study visa process, top universities, fee structures, and the admission process to help you navigate your journey from application to graduation.
+            The UK has long been a favourite destination for international students seeking world-class education, cultural diversity, and outstanding career opportunities. With its rich history, vibrant cities, and renowned institutions, it’s no wonder that the UK remains one of the top choices for students worldwide. If you’re considering studying in the UK, this guide provides an overview of the UK study visa process, some top universities, their fee structures, and the admission process to help you navigate your journey from application to graduation. As one of the <a href="https://vjcoverseas.com/" style={{ color: "orange", textDecoration: "none" }}>Best Visa Immigration Consultants</a>, we offer complete guidance for students planning their UK education, ensuring a smooth transition from application to arrival.
           </p>
         </div>
       </div>
@@ -55,7 +55,7 @@ const UKStudyGuide = () => {
         </li>
         <li>Attend Biometrics Appointment</li>
         <li>Wait for Visa Decision (typically up to 3 weeks)</li>
-        <li>Arrival in the UK: Visa is valid for the course duration plus extra time.</li>
+        <li>Arrival in the UK: Visa is valid for the course duration plus extra time. For students who wish to work after their studies, we also provide assistance with the <a href="https://vjcoverseas.com/work-abroad/united-kingdom-work-permit" style={{ color: "orange", textDecoration: "none" }}>UK Skilled Worker Visa</a>, ensuring you understand the eligibility requirements and pathways to long-term employment in the UK.</li>
       </ol>
 
       {/* Universities */}
@@ -91,7 +91,7 @@ const UKStudyGuide = () => {
         </li>
         <li>Attend Interview (if required)</li>
         <li>Receive and Accept Offer Letter</li>
-        <li>Apply for Student Visa (with CAS)</li>
+        <li>Apply for Student Visa (with CAS). When it comes to student visa applications, our <a href="https://vjcoverseas.com/study-abroad/uk" style={{ color: "orange", textDecoration: "none" }}>UK Student Visa Consultants</a> ensure you meet all the criteria and avoid any delays in processing.</li>
       </ol>
 
       {/* Cost of Living */}
@@ -100,24 +100,17 @@ const UKStudyGuide = () => {
         <li>London: £1,200 – £1,800/month</li>
         <li>Outside London: £900 – £1,300/month</li>
         <li>Cost includes housing, food, transport, leisure</li>
-        <li>Students can work part-time (up to 20 hrs/week), gaining valuable experience that can lead to <a href="https://vjcoverseas.com/work-abroad" style={{ color: "orange", textDecoration: "none" }}>Work Abroad Opportunities</a> after graduation.</li>
+        <li>Students can work part-time (up to 20 hrs/week)</li>
       </ul>
 
       {/* Conclusion */}
       <h2 className="text-xl font-bold text-blue-500 mt-4 mb-2">Conclusion</h2>
       <p className="mb-4">
-        Studying in the UK offers not just an academic challenge but also an opportunity to immerse yourself in a rich cultural experience. With a well-structured visa process, world-renowned universities, and a diverse student community, the UK is an excellent choice for international students. Some also explore <a href="https://vjcoverseas.com/study-abroad/usa" style={{ color: "orange", textDecoration: "none" }}>Study in USA</a> as an alternative or additional option.
+        Studying in the UK offers not just an academic challenge but also an opportunity to immerse yourself in a rich cultural experience. With a well-structured visa process, world-renowned universities, and a diverse student community, the UK is an excellent choice for international students. If you’re unsure about which university is right for you, our team of experienced <a href="https://vjcoverseas.com/study-abroad" style={{ color: "orange", textDecoration: "none" }}>Study Visa Consultants</a> can help you compare courses, locations, and budgets to make an informed decision.
       </p>
 
-      <p className="mb-4 font-semibold">
-  Start your UK Study Visa application with{" "}
-  <a 
-    href="https://www.vjcoverseas.com/" 
-    style={{ color: "orange", textDecoration: "none" }}
-  >
-    VJC Overseas
-  </a>{" "}
-  today and take the first step toward an exceptional academic future.
+      <p className="mb-4" style={{ color: "black" }}>
+  At <a href="https://vjcoverseas.com/" style={{ color: "orange", textDecoration: "none" }}>VJC Overseas</a>, we specialize in helping students navigate every step of the study abroad process—from selecting the right university to obtaining your visa and arriving in the UK. Contact us today to get started on your path to studying in the UK!
 </p>
 
     </div>
