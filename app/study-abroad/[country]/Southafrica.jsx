@@ -87,7 +87,7 @@ const StudyInSouthAfrica = () => {
 
       <h2 className="text-xl md-2 font-bold mt-4 text-black">Start Your Study Abroad Journey with VJC Overseas</h2>
       <p>
-        Choosing the right partner is crucial for a smooth study abroad journey. At <span className="text-orange-500">VJC Overseas</span>, we blend expertise with commitment, ensuring your move to South Africa is seamless and successful. Whether your goal is academic advancement or career growth, our guidance will help you reach it with confidence.
+        Choosing the right partner is crucial for a smooth study abroad journey. At <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/">VJC Overseas</Link></span>, we blend expertise with commitment, ensuring your move to South Africa is seamless and successful. Whether your goal is academic advancement or career growth, our guidance will help you reach it with confidence.
       </p>
     </div>
   );
