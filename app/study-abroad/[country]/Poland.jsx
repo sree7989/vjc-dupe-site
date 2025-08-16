@@ -118,8 +118,9 @@ const StudyInPoland = () => {
       </p>
      <p>
   Contact <Link href="https://vjcoverseas.com/" className="text-orange-500">VJC Overseas</Link> today to begin your journey toward 
-  Higher Education in Poland and secure your <span className="font-bold text-black">Poland Student Visa</span>.
+  <span className="font-bold text-black"> Higher Education in Poland</span> and secure your <span className="font-bold text-black">Poland Student Visa</span>.
 </p>
+
 
     </div>
   );
