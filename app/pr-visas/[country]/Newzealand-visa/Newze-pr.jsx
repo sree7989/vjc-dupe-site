@@ -12,7 +12,7 @@ const NewzealandPR = () => {
                    <div className="md:w-1/2 w-full">
                      <Image
                        src="/Permanent Residency in New Zealand.png"
-                       alt="New Zealand permanent residence Guidance by VJC Overseas"
+                       alt="New Zealand permanent residence Guidance by - VJC Overseas"
                        width={700}
                        height={400}
                        className="w-full object-cover "
@@ -29,24 +29,23 @@ const NewzealandPR = () => {
       </p>
 
       <p>
-        Are you looking to make New Zealand your permanent home? Whether you’re
-        attracted by the stunning landscapes, the vibrant culture, or the high
-        quality of life,
+        Are you planning to make New Zealand your permanent home? Whether you’re inspired by the breathtaking landscapes, the warm community, or the excellent quality of life, a well-structured immigration plan is the first step. Many aspirants seek guidance from <a href="https://vjcoverseas.com" className="text-orange-600 font-semibold">Best Visa Immigration Consultants</a>, as having the right experts ensures that your application process is smooth and stress-free.
       </p>
        </div>
        </div>
+
        <p className="-mt-6"> A New Zealand Permanent Resident Visa (PR) allows you
         to live, work, and study indefinitely in this beautiful country. At{" "}
-        <span className="text-orange-600 font-semibold">VJC Overseas</span>, we guide you through the entire process, ensuring a smooth and
-        hassle-free application. </p>
+        <strong>VJC Overseas</strong>, we provide step-by-step assistance to make your dream of settling abroad a reality. With years of experience as <a href="https://vjcoverseas.com/pr-visas" className="text-orange-600 font-semibold">PR Visa Consultants</a>, our team specializes in simplifying complex visa requirements for applicants who want a new life in New Zealand. </p>
+      
       <h3 className="text-xl font-semibold text-gray-900 mt-4 mb-2">
         What is the New Zealand Permanent Resident Visa?
       </h3>
       <ul className="list-disc list-inside space-y-1">
-        <li>Live, work, and study in New Zealand indefinitely.</li>
-        <li>Access public services, including healthcare and education.</li>
-        <li>Travel freely in and out of New Zealand.</li>
-        <li>Sponsor family members to join you in New Zealand.</li>
+        <li>The ability to live, work, and study in New Zealand without time limits.</li>
+        <li>Access to essential services, including healthcare and education.</li>
+        <li>The freedom to travel in and out of New Zealand without restrictions.</li>
+        <li>An opportunity to sponsor eligible family members so they can join you.</li>
       </ul>
 
       <h3 className="text-xl font-semibold text-gray-900 mt-4 mb-2">
@@ -54,29 +53,31 @@ const NewzealandPR = () => {
       </h3>
       <ul className="list-decimal list-inside space-y-1">
         <li>
-          <strong>Resident Visa Status:</strong> You must have held a New Zealand Resident Visa for at least 2 years.
+          <strong>Resident Visa Status:</strong> Applicants must have held a New Zealand Resident Visa for at least 2 years.
         </li>
         <li>
-          <strong>Good Character:</strong> You need to demonstrate that you have no significant criminal convictions.
+          <strong>Good Character:</strong> A clear background with no serious criminal convictions.
         </li>
         <li>
-          <strong>Ongoing Commitment:</strong> Show your commitment to New Zealand, such as living there and having stable employment or a business.
+          <strong>Commitment to New Zealand:</strong> Demonstrated by living in the country, stable employment, or running a business.
         </li>
         <li>
-          <strong>Financial Independence:</strong> You may need to show your ability to support yourself and dependents.
+          <strong>Financial Independence:</strong> Proof of the ability to support yourself and dependents.
         </li>
       </ul>
+      <p className="mt-2">For skilled professionals, pathways like the <a href="https://vjcoverseas.com/pr-visas/new-zealand-pr" className="text-orange-600 font-semibold">NZ Skilled Migrant</a> category also act as a strong route toward securing long-term residency.</p>
 
       <h3 className="text-xl font-semibold text-gray-900 mt-4 mb-2">
         Key Benefits of the New Zealand Permanent Resident Visa
       </h3>
       <ul className="list-disc list-inside space-y-1">
-        <li><strong>Indefinite Stay:</strong> No expiry date on your residency status once granted.</li>
-        <li><strong>Unrestricted Work Rights:</strong> Freedom to work in any job or profession.</li>
-        <li><strong>Access to Public Services:</strong> Eligible for the same healthcare and social services as New Zealand citizens.</li>
-        <li><strong>Travel Flexibility:</strong> Travel freely without limitations.</li>
-        <li><strong>Pathway to Citizenship:</strong> The final step before applying for New Zealand citizenship.</li>
+        <li><strong>Indefinite Stay:</strong> No expiry date once residency is granted.</li>
+        <li><strong>Work Opportunities:</strong> Freedom to take up any job or profession in New Zealand.</li>
+        <li><strong>Public Services:</strong> Equal access to healthcare and social services like citizens.</li>
+        <li><strong>Travel Freedom:</strong> Unrestricted international travel with residency rights intact.</li>
+        <li><strong>Pathway to Citizenship:</strong> The final step before becoming a New Zealand citizen.</li>
       </ul>
+      <p className="mt-2">Many applicants view this as the most reliable path to achieve <a href="https://vjcoverseas.com/pr-visas/new-zealand-pr" className="text-orange-600 font-semibold">New Zealand Permanent Residency</a>, which opens doors to long-term stability and growth.</p>
 
       <h3 className="text-xl font-semibold text-gray-900 mt-4 mb-2">
         Visa Fees
@@ -91,39 +92,29 @@ const NewzealandPR = () => {
         Processing Time
       </h3>
       <p>
-        Processing typically takes 4 to 6 months from submission, depending on application complexity and volume. Our experienced{" "}
-        <span className="text-orange-600 font-semibold">VJC Overseas</span> team ensures timely, accurate submission to avoid delays.
+        On average, it takes 4 to 6 months for the application to be processed. The timeline can vary depending on the complexity of the case and the volume of applications. With <strong>VJC Overseas</strong>, you gain expert support to ensure accurate, timely submissions that reduce delays.
       </p>
 
       <h3 className="text-xl font-semibold text-gray-900 mt-4 mb-2">
-        Why Choose <span className="text-orange-600 font-semibold">VJC Overseas</span>?
+        Why Choose <strong>VJC Overseas</strong>?
       </h3>
       <ul className="list-disc list-inside space-y-2">
-        <li><strong>Expert Guidance:</strong> Skilled consultants experienced in handling New Zealand PR visas.</li>
-        <li><strong>Tailored Solutions:</strong> Personalized advice based on your profile.</li>
-        <li><strong>Comprehensive Support:</strong> End-to-end assistance, from document collection to interviews.</li>
-        <li><strong>Transparent Fees:</strong> Clear and upfront with no hidden charges.</li>
+        <li><strong>Expert Guidance:</strong> Our consultants are experienced in handling New Zealand PR and residency cases.</li>
+        <li><strong>Tailored Support:</strong> Every applicant receives a customized strategy based on their background.</li>
+        <li><strong>End-to-End Assistance:</strong> From documentation to interviews, we provide complete support.</li>
+        <li><strong>Transparent Approach:</strong> Clear fee structure with no hidden charges.</li>
       </ul>
+      <p className="mt-2">As one of the trusted names in overseas migration, <strong>VJC Overseas</strong> has built its reputation by helping thousands of aspirants settle abroad with confidence.</p>
 
       <h3 className="text-xl font-semibold text-gray-900 mt-4 mb-2">
         Ready to Apply?
       </h3>
       <p>
-        If you’re ready to take the next step toward securing your New Zealand Permanent Resident Visa, contact{" "}
-        <span className="text-orange-600 font-semibold">VJC Overseas</span> today. Our team is ready to help you with everything from eligibility checks to final submission.
+        If you are ready to begin your journey toward a <strong>New Zealand Permanent Resident Visa</strong>, connect with{" "}
+        <a href="https://vjcoverseas.com" className="text-orange-600 font-semibold">VJC Overseas</a> today. Our expert consultants will guide you from eligibility checks to the final approval stage, ensuring your transition is smooth and stress-free.
       </p>
 
-      <h3 className="text-xl font-semibold text-gray-900 mt-4 mb-2">
-        Contact Us
-      </h3>
-      <ul className="list-disc list-inside space-y-1">
-        <li><strong>Phone:</strong> +91-9160449000</li>
-        <li><strong>Email:</strong> info@vjcoverseas.com</li>
-      </ul>
-
-      <p className="text-sm text-gray-600 mt-4 italic">
-        Note: Information is subject to change as per New Zealand immigration policies. Always check official sources or consult with our team for the most updated details.
-      </p>
+      
     </div>
   );
 };
