@@ -30,7 +30,7 @@ const Content = () => {
         ideal destination for professionals looking to establish their freelance
         career. The{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad/germany-work-permit/freelance-visa"
+          href="https://www.vjcoverseas.com/work-abroad/germany-work-permit/freelance-visa"
           style={{ color: "orange" }}
         >
           Germany Visa for Freelancers
@@ -55,7 +55,7 @@ const Content = () => {
         <div className="px-4 lg:px-0">
           <p className="text-black  mb-2 text-md sm:text-lg mt-5">
             At{" "}
-            <a href="https://vjcoverseas.com" style={{ color: "orange" }}>
+            <a href="https://www.vjcoverseas.com" style={{ color: "orange" }}>
               VJC Overseas
             </a>
             , we provide expert guidance and support to help you navigate the
@@ -91,7 +91,7 @@ const Content = () => {
         into the country’s economy. For long-term employment alternatives, you
         can also consider the{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad/germany-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/germany-work-permit"
           style={{ color: "orange" }}
         >
           Germany Work Permit Visa
@@ -197,7 +197,7 @@ const Content = () => {
           networking events, conferences, and professional organizations for
           freelancers. It also opens doors to multiple{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             style={{ color: "orange" }}
           >
             work abroad opportunities
@@ -233,7 +233,7 @@ const Content = () => {
           your new life, including advice on accommodation, taxation, and
           integration. Recognized as one of the{" "}
           <a
-            href="https://vjcoverseas.com"
+            href="https://www.vjcoverseas.com"
             style={{ color: "orange" }}
           >
             Best Visa Immigration Consultants
