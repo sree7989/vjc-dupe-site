@@ -13,7 +13,7 @@ const AustraliaWorkVisa = () => {
                 <div className="flex-shrink-0 mx-auto lg:mx-0">
                   <Image
                     src="/awvisaimg.jpg"
-                    alt="Image description"
+                    alt="Australia Work Permit Visa"
                     width={500} // Replace with your image's actual width
                     height={300}
                     className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:w-80 lg:h-70 object-contain shadow-lg rounded-lg"
@@ -21,10 +21,10 @@ const AustraliaWorkVisa = () => {
                   />
                 </div>
       <p className="mb-4 text-base">
-        At <span className="text-orange-500 font-semibold">VJC Overseas</span>, we are dedicated to helping individuals navigate the complex visa application process and provide tailored advice for a seamless migration experience. In this guide, we’ll take you through the different 
+        At <a href="https://vjcoverseas.com" target="_blank" className="text-orange-500 font-semibold">VJC Overseas</a>, we are dedicated to helping individuals navigate the complex visa application process and provide tailored advice for a seamless migration experience. In this guide, we’ll take you through the different 
       </p>
       </div>
-      <p>types of work visas available in Australia, their requirements, and how <span className="text-orange-500 font-semibold">VJC Overseas</span> can assist you every step of the way.</p>
+      <p>types of work visas available in Australia, their requirements, and how <span className="font-bold text-black">VJC Overseas</span> can assist you every step of the way.</p>
 
       <h2 className="text-2xl font-bold mt-6 mb-3">Types of Australia Work Visas</h2>
       <p className="mb-4 text-base">
@@ -92,9 +92,43 @@ const AustraliaWorkVisa = () => {
         <li><strong>Cultural Diversity:</strong> Multicultural and inclusive environment promoting innovation and global networking.</li>
       </ul>
 
-      <h2 className="text-xl font-bold mt-6 mb-3">How <span className="text-orange-500 font-semibold">VJC Overseas</span> Can Help</h2>
+      {/* Added section from your content with the internal link for "Work Abroad Opportunities" */}
+      <h2 className="text-xl font-bold mt-6 mb-3">Exploring Work Abroad Opportunities</h2>
       <p className="mb-4">
-        The process of applying for an Australian work visa can be complex and time-consuming, but with the right guidance, you can navigate it successfully. At <span className="text-orange-500 font-semibold">VJC Overseas</span>, our team of migration experts is here to assist you with every step of the process, from assessing your eligibility to submitting your application and preparing you for your new life in Australia.
+        Australia has become a global hub for professionals seeking <a href="https://vjcoverseas.com/work-abroad" target="_blank" className="text-orange-500 font-semibold">Work Abroad Opportunities</a>. With its thriving industries, strong demand for skilled workers, and multicultural environment, the country attracts talent from across the world. From IT to healthcare and engineering to hospitality, Australia offers career paths for people in a wide range of professions.
+      </p>
+
+      {/* Added section from your content with the internal link for "Australia PR Visa" */}
+      <h2 className="text-xl font-bold mt-6 mb-3">Australia PR Visa</h2>
+      <p className="mb-4">
+        Many professionals start with a temporary work visa and later transition into <a href="https://vjcoverseas.com/pr-visas/australia-pr" target="_blank" className="text-orange-500 font-semibold">Australia PR Visa</a> pathways. Permanent residency in Australia offers long-term stability, access to public benefits, and the opportunity to eventually apply for citizenship. This makes Australia not only a great place to work but also an ideal country to build a future.
+      </p>
+
+      {/* Added section from your content with the internal link for "Work Permit for Australia" */}
+      <h2 className="text-xl font-bold mt-6 mb-3">Work Permit for Australia</h2>
+      <p className="mb-4">
+        Applying for a <a href="https://vjcoverseas.com/work-abroad/australia-work-permit" target="_blank" className="text-orange-500 font-semibold">Work Permit for Australia</a> can be a complex process involving eligibility checks, skill assessments, and sponsorship. Having the right guidance ensures that applicants submit error-free documents and increase their chances of approval.
+      </p>
+
+      {/* Added section from your content with the internal link for "Best Visa Immigration Consultants" */}
+      <h2 className="text-xl font-bold mt-6 mb-3">Why Choose <span className="font-bold text-black">VJC Overseas</span>?</h2>
+      <p className="mb-4">
+        If you are searching for the <a href="https://vjcoverseas.com/" target="_blank" className="text-orange-500 font-semibold">Best Visa Immigration Consultants</a>, <span className="font-bold text-black">VJC Overseas</span> stands out for its expertise and success rate. Our services cover:
+      </p>
+      <ul className="list-disc list-inside mb-4">
+        <li>Eligibility assessment</li>
+        <li>Document preparation</li>
+        <li>Application filing and tracking</li>
+        <li>Post-visa settlement support</li>
+      </ul>
+      <p className="mb-4">
+        We aim to simplify the process so you can focus on your career transition instead of the paperwork.
+      </p>
+
+      {/* Existing section retained; ensure repeated keyword is bold black without linking */}
+      <h2 className="text-xl font-bold mt-6 mb-3">How <span className="font-bold text-black">VJC Overseas</span> Can Help</h2>
+      <p className="mb-4">
+        The process of applying for an Australian work visa can be complex and time-consuming, but with the right guidance, you can navigate it successfully. At <span className="font-bold text-black">VJC Overseas</span>, our team of migration experts is here to assist you with every step of the process, from assessing your eligibility to submitting your application and preparing you for your new life in Australia.
       </p>
       <p className="mb-4"><strong>Our services include:</strong><br />
         • Visa Eligibility Assessment<br />
@@ -103,16 +137,19 @@ const AustraliaWorkVisa = () => {
         • Post-Visa Settlement Services
       </p>
 
+      {/* Short informative line to include the "Australia Work Permit Visa" internal link once */}
+      <p className="mb-4">
+        Learn more about the <a href="https://vjcoverseas.com/work-abroad/australia-work-permit" target="_blank" className="text-orange-500 font-semibold">Australia Work Permit Visa</a> and how it can align with your long-term goals.
+      </p>
+
       <h2 className="text-xl font-bold mt-6 mb-3">Ready to Take the Leap?</h2>
       <p className="mb-4">
         Australia’s booming job market awaits skilled professionals like you. Whether you're looking to work temporarily or make Australia your long-term home, the right visa can open doors to exciting career opportunities.
       </p>
       <p className="mb-4">
-        Contact <span className="text-orange-500 font-semibold">VJC Overseas</span> today to begin your journey toward securing an Australia Work Visa. Let us help you turn your professional dreams into reality with expert advice, tailored services, and support every step of the way.
+        Contact <span className="font-bold text-black">VJC Overseas</span> today to begin your journey toward securing an Australia Work Visa. Let us help you turn your professional dreams into reality with expert advice, tailored services, and support every step of the way.
       </p>
-      <p>
-        For more information or to schedule a consultation, visit <a href="https://www.vjcoverseas.com" target="_blank" className="text-orange-500 underline">www.vjcoverseas.com</a> or call us today! Your Australian adventure begins now.
-      </p>
+      
     </div>
   );
 };
