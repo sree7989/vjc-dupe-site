@@ -8,12 +8,12 @@ const AustraliaEmployer186 = () => {
       <p>
         Are you an employer looking to hire skilled workers from overseas, or are you an aspiring
         professional hoping to work in Australia permanently? The{" "}
-        <a href="https://vjcoverseas.com/work-abroad/australia-work-permit/employer-186-visa" style={{ color: "orange", fontWeight: "bold" }}>
+        <a href="https://www.vjcoverseas.com/work-abroad/australia-work-permit/employer-186-visa" style={{ color: "orange", fontWeight: "bold" }}>
           Australia Employer 186 Visa
         </a>{" "}
         (also known as the Direct Entry stream) could be the perfect solution to bring talent into the
         country and help you grow your business. At{" "}
-        <a href="https://vjcoverseas.com" style={{ color: "orange", fontWeight: "bold" }}>VJC Overseas</a>, we specialize in guiding both employers
+        <a href="https://www.vjcoverseas.com" style={{ color: "orange", fontWeight: "bold" }}>VJC Overseas</a>, we specialize in guiding both employers
         and employees through the process of obtaining this highly sought-after visa.
       </p>
 
@@ -55,7 +55,7 @@ const AustraliaEmployer186 = () => {
       <h2 className="text-xl font-bold mt-3">Salary Structure and Compensation in Australia</h2>
       <p>
         A major consideration when applying for the{" "}
-        <a href="https://vjcoverseas.com/work-abroad/australia-work-permit" style={{ color: "orange", fontWeight: "bold" }}>
+        <a href="https://www.vjcoverseas.com/work-abroad/australia-work-permit" style={{ color: "orange", fontWeight: "bold" }}>
           Australia Work Permit Visa
         </a>{" "}
         is the salary structure. In Australia, the minimum salary requirement for the 186 visa must meet the market salary rate
@@ -73,11 +73,11 @@ const AustraliaEmployer186 = () => {
         Australia offers a high standard of living, excellent healthcare, and work-life balance.
         It is a top destination for skilled workers due to its multicultural society and abundant
         professional opportunities. The{" "}
-        <a href="https://vjcoverseas.com/work-abroad" style={{ color: "orange", fontWeight: "bold" }}>
+        <a href="https://www.vjcoverseas.com/work-abroad" style={{ color: "orange", fontWeight: "bold" }}>
           Work Abroad Opportunities
         </a>{" "}
         with the 186 Visa extend beyond employment, allowing skilled professionals to build a career and eventually apply for{" "}
-        <a href="https://vjcoverseas.com/pr-visas/australia-pr" style={{ color: "orange", fontWeight: "bold" }}>
+        <a href="https://www.vjcoverseas.com/pr-visas/australia-pr" style={{ color: "orange", fontWeight: "bold" }}>
           Australia PR Visa
         </a>.
       </p>
@@ -94,7 +94,7 @@ const AustraliaEmployer186 = () => {
         <li>Lifestyle Benefits: Multicultural environment, modern amenities, and abundant career opportunities.</li>
       </ul>
 
-      <h2 className="text-xl font-bold mt-3">Why Choose <a href="https://vjcoverseas.com" style={{ color: "orange", fontWeight: "bold" }}>Best Visa Immigration Consultants</a>?</h2>
+      <h2 className="text-xl font-bold mt-3">Why Choose <a href="https://www.vjcoverseas.com" style={{ color: "orange", fontWeight: "bold" }}>Best Visa Immigration Consultants</a>?</h2>
       <ul>
         <li>Expert guidance throughout the visa application process.</li>
         <li>Visa assessment services to ensure eligibility and compliance.</li>
