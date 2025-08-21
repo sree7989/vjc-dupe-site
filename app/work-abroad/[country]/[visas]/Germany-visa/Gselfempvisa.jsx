@@ -23,7 +23,7 @@ const Content = () => {
 
       <p>
         Are you an entrepreneur, freelancer, or investor looking to start or expand your business in Germany? The Germany Self-Employment Visa offers an excellent opportunity for individuals with a strong business idea or professional expertise to establish themselves in one of Europe`s most dynamic economies. At{" "}
-        <Link href="https://vjcoverseas.com" style={{ color: "#FF7F00" }}>
+        <Link href="https://www.vjcoverseas.com" style={{ color: "#FF7F00" }}>
           VJC Overseas
         </Link>
         , we specialize in guiding you through the application process, ensuring a smooth and successful transition to self-employment in Germany.
@@ -142,7 +142,7 @@ const Content = () => {
         <li>
           <strong>High Quality of Life:</strong> Enjoy Germany`s world-class infrastructure, healthcare, and education systems. Explore more{" "}
           <Link
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             style={{ color: "#FF7F00" }}
           >
             Work Abroad Opportunities
@@ -156,7 +156,7 @@ const Content = () => {
       </h4>
       <p className="text-base">
         At VJC Overseas, we understand that relocating to a new country and starting a business can be a daunting task. Our expert team will guide you step by step, ensuring you meet all necessary criteria and submit a flawless application. With comprehensive services, including visa consultations, business plan preparation, and document handling, we ensure your best chance of success in securing your Germany Self-Employment Visa. Recognized among the{" "}
-        <Link href="https://vjcoverseas.com" style={{ color: "#FF7F00" }}>
+        <Link href="https://www.vjcoverseas.com" style={{ color: "#FF7F00" }}>
           Best Visa Immigration Consultants
         </Link>
         , we make your journey smooth and stress-free.
@@ -168,7 +168,7 @@ const Content = () => {
       <p className="text-base">
         Ready to make Germany your new business home? VJC Overseas is here to help you every step of the way. Contact us today for a consultation and take the first step towards achieving your self-employment dreams in Germany. For other options like{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/germany-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/germany-work-permit"
           style={{ color: "#FF7F00" }}
         >
           Germany Work Permit Visa
