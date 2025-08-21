@@ -35,14 +35,14 @@ const CanadaFS = () => {
         Visa is your golden gateway to a world of professional growth, high
         living standards, and international exposure. At{" "}
         <Link
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-600 font-bold"
         >
           VJC Overseas
         </Link>
         , we specialize in helping skilled individuals like you secure a W1{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/canada-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/canada-work-permit"
           className="text-orange-600 font-bold"
         >
           Canada Work Permit
@@ -84,7 +84,7 @@ const CanadaFS = () => {
       <p className="mb-4">
         Many skilled professionals also choose the{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/canada-work-permit/w1-visa"
+          href="https://www.vjcoverseas.com/work-abroad/canada-work-permit/w1-visa"
           className="text-orange-600 font-bold"
         >
           Canadian W-1 Work Visa
@@ -198,7 +198,7 @@ const CanadaFS = () => {
         We walk with you from application to arrival, ensuring a seamless
         journey to Canada. We also assist candidates in exploring{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad"
+          href="https://www.vjcoverseas.com/work-abroad"
           className="text-orange-600 font-bold"
         >
           Work Abroad Opportunities
@@ -220,7 +220,7 @@ const CanadaFS = () => {
         </strong>{" "}
         and let’s bring your Canadian dream to life! Partnering with{" "}
         <Link
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-600 font-bold"
         >
           Best Visa Immigration Consultants
