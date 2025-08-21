@@ -29,7 +29,7 @@ const GermanySkilled = () => {
         standard of living, and one of the most efficient immigration systems
         globally, the{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/germany-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/germany-work-permit"
           className="text-orange-600 font-semibold"
         >
           Germany work permit Visa
@@ -38,7 +38,7 @@ const GermanySkilled = () => {
       </p>
       <p className="mt-3">
         At{" "}
-        <Link href="https://vjcoverseas.com" className="text-orange-600 font-semibold">
+        <Link href="https://www.vjcoverseas.com" className="text-orange-600 font-semibold">
           VJC Overseas
         </Link>
         , we specialize in helping professionals like you secure their future in
@@ -70,7 +70,7 @@ const GermanySkilled = () => {
         experiencing talent shortages, such as IT, engineering, healthcare, and
         skilled trades. It is one of the most sought-after pathways for{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad"
+          href="https://www.vjcoverseas.com/work-abroad"
           className="text-orange-600 font-semibold"
         >
           Work Abroad Opportunities
@@ -124,7 +124,7 @@ const GermanySkilled = () => {
       <p className="mt-2">
         To qualify for the{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/germany-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/germany-work-permit"
           className="text-orange-600 font-semibold no-underline"
         >
           Germany Skilled Worker Permit
@@ -195,7 +195,7 @@ const GermanySkilled = () => {
       <p className="mt-2">
         We are widely known as one of the{" "}
         <Link
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-600 font-semibold"
         >
           Best Visa Immigration Consultants
