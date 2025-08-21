@@ -20,7 +20,7 @@ const Australia417Visa = () => {
         </strong>
         . The{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad/australia-work-permit/working-holiday-417-visa"
+          href="https://www.vjcoverseas.com/work-abroad/australia-work-permit/working-holiday-417-visa"
           className="text-orange-500 font-bold"
         >
           Australia 417 Working Holiday Visa
@@ -51,7 +51,7 @@ const Australia417Visa = () => {
         travel in Australia for up to 12 months. This visa is ideal for those
         who want to fund their travels through short-term jobs while immersing
         themselves in Australian culture, lifestyle, and adventure. By choosing{" "}
-        <a href="https://vjcoverseas.com" className="text-orange-500 font-bold">
+        <a href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">
           VJC Overseas
         </a>
         , you gain professional assistance for a hassle-free visa application
@@ -100,7 +100,7 @@ const Australia417Visa = () => {
       <p className="mb-4">
         With{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad/australia-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/australia-work-permit"
           className="text-orange-500 font-bold"
         >
           Australia Work Permit Visa
@@ -151,7 +151,7 @@ const Australia417Visa = () => {
         work experience and understanding the Australian job market, you can
         explore applying for the{" "}
         <a
-          href="https://vjcoverseas.com/pr-visas/australia-pr"
+          href="https://www.vjcoverseas.com/pr-visas/australia-pr"
           className="text-orange-500 font-bold"
         >
           Australia PR Visa
@@ -165,7 +165,7 @@ const Australia417Visa = () => {
       </h2>
       <p className="mb-4">
         As the{" "}
-        <a href="https://vjcoverseas.com" className="text-orange-500 font-bold">
+        <a href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">
           Best Visa Immigration Consultants
         </a>
         , <strong style={{ color: "black" }}>VJC Overseas</strong> offers:
@@ -194,7 +194,7 @@ const Australia417Visa = () => {
         Ready to explore Australia while working and experiencing a new
         lifestyle? Contact{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad"
+          href="https://www.vjcoverseas.com/work-abroad"
           className="text-orange-500 font-bold"
         >
           Work Abroad Opportunities
