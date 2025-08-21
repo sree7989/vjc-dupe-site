@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-
+import Link from 'next/link';
 const UKWorkPermit = () => {
   return (
     <div className="p-6 sm:p-12">
@@ -11,12 +11,12 @@ const UKWorkPermit = () => {
       <p>
         Are you planning to work and build a successful career in the United
         Kingdom? Securing a{" "}
-        <a
+        <Link
           href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit"
           className="text-orange-500 font-bold"
         >
           United Kingdom Work Visa
-        </a>{" "}
+        </Link>{" "}
         could be your key to unlocking exciting career opportunities while
         enjoying the UK’s high standard of living. At{" "}
         <strong style={{ color: "black" }}>VJC Overseas</strong>, one of the{" "}
@@ -39,24 +39,24 @@ const UKWorkPermit = () => {
         </div>
         <p>
           A{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit"
             className="text-orange-500 font-bold"
           >
             Work in UK Permit
-          </a>{" "}
+          </Link>{" "}
           allows international skilled professionals to live and work in the UK
           legally. The visa system includes several categories, such as the
           Skilled Worker Visa, Global Talent Visa, and Health and Care Worker
           Visa. These permits are designed to address the UK’s demand for talent
           across key sectors including healthcare, technology, engineering,
           finance, and more. Explore more{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-bold"
           >
             Work Abroad Opportunities
-          </a>{" "}
+          </Link>{" "}
           to find your ideal visa category.
         </p>
       </div>
@@ -95,12 +95,12 @@ const UKWorkPermit = () => {
             Pathway to Permanent Residency (Indefinite Leave to Remain):
           </strong>{" "}
           One of the key advantages of a UK Work Permit Visa is the pathway to{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/pr-visas/uk-pr"
             className="text-orange-500 font-bold"
           >
             UK PR Visa
-          </a>
+          </Link>
           . After living and working in the UK for a certain number of years
           (usually 5 years), you can apply for ILR, which allows you to stay in
           the UK permanently.
@@ -168,7 +168,7 @@ const UKWorkPermit = () => {
       </h2>
       <p>
   At <strong>
-    <a href="https://www.vjcoverseas.com" style={{ color: "orange" }}>VJC Overseas</a>
+    <Link href="https://www.vjcoverseas.com" style={{ color: "orange" }}>VJC Overseas</Link>
   </strong>, we provide
   expert guidance to help you navigate the UK work visa process
   efficiently. We understand that securing a work visa can be a complex
@@ -199,7 +199,7 @@ const UKWorkPermit = () => {
       <p>
   If you are ready to explore professional growth in the UK and benefit
   from international experience, contact <strong style={{ color: "black" }}>VJC Overseas</strong> today. Take the first step toward obtaining your <strong style={{ color: "black" }}>United Kingdom Work Visa</strong> and eventually securing a <strong style={{ color: "black" }}>UK PR Visa</strong> to live and work permanently. Your UK career journey begins here — let <strong style={{ color: "black" }}>VJC Overseas</strong>, one of the <strong>
-    <a href="https://www.vjcoverseas.com" style={{ color: "orange" }}>Best Visa Immigration Consultants</a>
+    <Link href="https://www.vjcoverseas.com" style={{ color: "orange" }}>Best Visa Immigration Consultants</Link>
   </strong>, help make your dreams a reality!
 </p>
 
