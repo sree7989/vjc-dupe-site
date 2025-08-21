@@ -22,7 +22,7 @@ const Canadapr = () => {
         , we specialize in guiding individuals like you through the process of
         obtaining a{' '}
         <a
-          href="https://vjcoverseas.com/work-abroad/canada-work-permit/open-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/canada-work-permit/open-work-permit"
           className="text-orange-600 font-bold"
         >
           Canada Open Work Permit Visa
@@ -112,7 +112,7 @@ const Canadapr = () => {
           Montreal offer excellent infrastructure and quality of life, making it
           one of the best choices for{' '}
           <a
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-600 font-bold"
           >
             Work Abroad Opportunities
@@ -142,7 +142,7 @@ const Canadapr = () => {
           globally respected universities and career development opportunities
           with guidance from the{' '}
           <a
-            href="https://vjcoverseas.com"
+            href="https://www.vjcoverseas.com"
             className="text-orange-600 font-bold"
           >
             Best Visa Immigration Consultants
@@ -163,7 +163,7 @@ const Canadapr = () => {
       <p className="mb-4 text-base">
         Navigating the immigration process can be complex, but with{' '}
         <a
-          href="https://vjcoverseas.com/work-abroad/canada-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/canada-work-permit"
           className="text-orange-600 font-bold"
         >
           Canada Work Permit
