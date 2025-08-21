@@ -53,7 +53,7 @@ const Content = () => {
 <p>It opens doors not only to jobs but also to personal growth, cultural experiences, and a better lifestyle.</p>
       
 <p className="hidden lg:block mb-5">
-  At <strong style={{color:'black'}}>VJC Overseas</strong>, we simplify the journey for professionals aiming to work in Germany. With deep expertise and a proven track record, we have earned a reputation as one of the <a href="https://vjcoverseas.com" style={{ color: 'orange' }}><strong>Best Visa Immigration Consultants</strong></a>. Every step of your application process is handled efficiently and transparently.
+  At <strong style={{color:'black'}}>VJC Overseas</strong>, we simplify the journey for professionals aiming to work in Germany. With deep expertise and a proven track record, we have earned a reputation as one of the <a href="https://www.vjcoverseas.com" style={{ color: 'orange' }}><strong>Best Visa Immigration Consultants</strong></a>. Every step of your application process is handled efficiently and transparently.
 </p>
 
       <h3 style={{ color: "black", fontWeight: "bold", marginBottom: '10px' }}>Why Choose VJC Overseas?</h3>
@@ -70,8 +70,8 @@ const Content = () => {
       <h3 style={{ color: "black", fontWeight: "bold", marginBottom: '20px' }}>How VJC Overseas Supports You</h3>
       <ul style={{ marginBottom: '20px', listStyleType: 'disc', paddingLeft: '20px' }}>
         <li><strong style={{color:'rgb(3, 60, 65)'}}>Expert Consultation:</strong> Personalized advice tailored to your career background.</li>
-        <li><strong style={{color:'rgb(3, 60, 65)'}}>Job Search Guidance:</strong> Our strong employer network in Germany supports your job-hunting journey. Explore <a href="https://vjcoverseas.com/work-abroad" style={{ color: 'orange' }}><strong>Work Abroad Opportunities</strong></a> with us.</li>
-        <li><strong style={{color:'rgb(3, 60, 65)'}}>Visa Application Assistance:</strong> Full support with documentation, filing, and follow-ups for your Germany <a href="https://vjcoverseas.com/work-abroad/germany-work-permit" style={{ color: 'orange' }}><strong>work permit Visa</strong></a>.</li>
+        <li><strong style={{color:'rgb(3, 60, 65)'}}>Job Search Guidance:</strong> Our strong employer network in Germany supports your job-hunting journey. Explore <a href="https://www.vjcoverseas.com/work-abroad" style={{ color: 'orange' }}><strong>Work Abroad Opportunities</strong></a> with us.</li>
+        <li><strong style={{color:'rgb(3, 60, 65)'}}>Visa Application Assistance:</strong> Full support with documentation, filing, and follow-ups for your Germany <a href="https://www.vjcoverseas.com/work-abroad/germany-work-permit" style={{ color: 'orange' }}><strong>work permit Visa</strong></a>.</li>
         <li><strong style={{color:'rgb(3, 60, 65)'}}>Pre-Departure Assistance:</strong> Guidance on relocation, housing, and settling in.</li>
       </ul>
       <p style={{ marginBottom: '20px' }}>By combining years of expertise with up-to-date immigration insights, <strong style={{color:'black'}}>VJC Overseas</strong> ensures your transition is seamless and rewarding.</p>
@@ -82,7 +82,7 @@ const Content = () => {
       <p style={{ marginBottom: '20px' }}>“I never thought applying for the <strong style={{color:'black'}}>Germany Opportunity Card</strong> would be this easy. Thanks to <strong style={{color:'black'}}>VJC Overseas</strong>, my visa was approved quickly, and I found a great job within just a few months.” — Anjali S., Software Developer</p>
       
       <h3 style={{ color: "black", fontWeight: "bold", marginBottom: '10px' }}>Start Your Journey Today</h3>
-      <p style={{ marginBottom: '20px' }}>The <strong style={{color:'black'}}>Germany Opportunity Card</strong> offers a once-in-a-lifetime chance to live, work, and thrive in Europe’s strongest economy. With <a href="https://vjcoverseas.com" style={{color:'orange'}}><strong>VJC Overseas</strong></a> by your side, you can apply with confidence, knowing you are guided by experts who secure visa approvals every alternate day.</p>
+      <p style={{ marginBottom: '20px' }}>The <strong style={{color:'black'}}>Germany Opportunity Card</strong> offers a once-in-a-lifetime chance to live, work, and thrive in Europe’s strongest economy. With <a href="https://www.vjcoverseas.com" style={{color:'orange'}}><strong>VJC Overseas</strong></a> by your side, you can apply with confidence, knowing you are guided by experts who secure visa approvals every alternate day.</p>
       
       <h3 style={{ color: "black", fontWeight: "bold", marginBottom: '10px' }}>Contact us today for a free consultation</h3>
       <p style={{ marginBottom: '20px' }}>Let us guide you toward a brighter career path in Germany.</p>
