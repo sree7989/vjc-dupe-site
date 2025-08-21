@@ -10,12 +10,12 @@ const AustraliaVisa189 = () => {
 
       <p className="text-base">
   Welcome to{" "}
-  <a href="https://vjcoverseas.com" className="text-orange-500 font-bold">
+  <a href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">
     VJC Overseas
   </a>
   , your trusted partner in securing the{" "}
   <a
-    href="https://vjcoverseas.com/work-abroad/australia-work-permit/work-visa-subclass-189"
+    href="https://www.vjcoverseas.com/work-abroad/australia-work-permit/work-visa-subclass-189"
     className="text-orange-500 font-bold"
   >
     189 Permanent Work Visa Australia
@@ -104,12 +104,12 @@ const AustraliaVisa189 = () => {
       <h2 className="text-xl font-bold mt-6">Work Abroad Opportunities</h2>
       <p className="text-base">
         The{" "}
-        <a href="https://vjcoverseas.com/work-abroad" className="text-orange-500 font-bold">
+        <a href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500 font-bold">
           Work Abroad Opportunities
         </a>{" "}
         with the Subclass 189 Visa allow skilled professionals to build a permanent career in Australia. This visa also
         aligns perfectly with pathways to the{" "}
-        <a href="https://vjcoverseas.com/pr-visas/australia-pr" className="text-orange-500 font-bold">
+        <a href="https://www.vjcoverseas.com/pr-visas/australia-pr" className="text-orange-500 font-bold">
           Australia PR Visa
         </a>{" "}
         and supports long-term professional growth and personal development.
@@ -118,7 +118,7 @@ const AustraliaVisa189 = () => {
       <h2 className="text-xl font-bold mt-6">Why Choose VJC Overseas?</h2>
       <p className="text-base">
         Choosing the{" "}
-        <a href="https://vjcoverseas.com" className="text-orange-500 font-bold">
+        <a href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">
           Best Visa Immigration Consultants
         </a>{" "}
         ensures your Subclass 189 application is smooth, accurate, and efficient.{" "}
@@ -135,7 +135,7 @@ const AustraliaVisa189 = () => {
       <p className="text-base">
         If you are ready to take the next step toward working and living permanently in Australia, contact{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad/australia-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/australia-work-permit"
           className="text-orange-500 font-bold"
         >
           Australia Work Permit Visa
