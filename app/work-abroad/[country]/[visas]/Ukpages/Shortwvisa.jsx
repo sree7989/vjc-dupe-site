@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-
+import Link from "next/link";
 const CanadaFS = () => {
   return (
     <div
@@ -18,7 +18,7 @@ const CanadaFS = () => {
       </h1>
 
       <p>
-        Dreaming of working in the UK for a short period? The UK Short-Term Work Visa offers an exciting opportunity for skilled professionals, youth, and seasonal workers from India to gain international work experience, explore British culture, and build a global career foundation. At <strong style={{ color: "#000" }}>VJC Overseas</strong>, one of the <a href="https://www.vjcoverseas.com" className="text-orange-500">Best Visa Immigration Consultants</a>, we provide expert guidance to help you navigate every step of the UK short-term work visa process efficiently and seamlessly.
+        Dreaming of working in the UK for a short period? The UK Short-Term Work Visa offers an exciting opportunity for skilled professionals, youth, and seasonal workers from India to gain international work experience, explore British culture, and build a global career foundation. At <strong style={{ color: "#000" }}>VJC Overseas</strong>, one of the <Link href="https://www.vjcoverseas.com" className="text-orange-500">Best Visa Immigration Consultants</Link>, we provide expert guidance to help you navigate every step of the UK short-term work visa process efficiently and seamlessly.
       </p>
 
       <h2 className="text-xl mt-3 font-bold">What is a UK Short-Term Work Visa?</h2>
@@ -35,7 +35,7 @@ const CanadaFS = () => {
           />
         </div>
         <p>
-          The UK Work Permit Visa, commonly called the Temporary Work Visa (T5), is designed for individuals who want to work in the United Kingdom for a limited period, typically 6–12 months. Subcategories include the Seasonal Worker Visa, Charity Worker Visa, and Government Authorised Exchange, giving applicants the chance to gain professional exposure in the UK without a long-term commitment. Explore more <a href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500">Work Abroad Opportunities</a> to discover various short-term and long-term visa options. Also consider <strong style={{ color: "#000" }}>UK Work Permit Visa</strong> for more details.
+          The UK Work Permit Visa, commonly called the Temporary Work Visa (T5), is designed for individuals who want to work in the United Kingdom for a limited period, typically 6–12 months. Subcategories include the Seasonal Worker Visa, Charity Worker Visa, and Government Authorised Exchange, giving applicants the chance to gain professional exposure in the UK without a long-term commitment. Explore more <Link href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500">Work Abroad Opportunities</Link> to discover various short-term and long-term visa options. Also consider <strong style={{ color: "#000" }}>UK Work Permit Visa</strong> for more details.
         </p>
       </div>
 
@@ -88,7 +88,7 @@ const CanadaFS = () => {
           </tbody>
         </table>
         <p>
-          <strong>Pro Tip:</strong> Many UK employers provide free accommodation and meals for seasonal workers, significantly reducing your living costs. You may also explore <a href="https://www.vjcoverseas.com/pr-visas/uk-pr" className="text-orange-500">UK PR Visa</a> options for long-term career plans.
+          <strong>Pro Tip:</strong> Many UK employers provide free accommodation and meals for seasonal workers, significantly reducing your living costs. You may also explore <Link href="https://www.vjcoverseas.com/pr-visas/uk-pr" className="text-orange-500">UK PR Visa</Link> options for long-term career plans.
         </p>
       </div>
 
@@ -159,15 +159,15 @@ const CanadaFS = () => {
         </table>
       </div>
      <p>
-  <strong>Note:</strong> <a href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">VJC Overseas</a> charges a nominal processing fee for end-to-end visa services. Contact us for a customized quote.
+  <strong>Note:</strong> <Link href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">VJC Overseas</Link> charges a nominal processing fee for end-to-end visa services. Contact us for a customized quote.
 </p>
 
 
       <h2 className="text-xl mt-3 font-bold">Start Your UK Work Journey Today!</h2>
       <p>
-        Working in the UK is no longer just a dream. With the right guidance and support, your UK short-term work visa can open doors to international exposure, new opportunities, and a life-changing experience. Explore <a href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-short-term-work-visa" className="text-orange-500">UK Short-Term Work Visa</a> opportunities today.
+        Working in the UK is no longer just a dream. With the right guidance and support, your UK short-term work visa can open doors to international exposure, new opportunities, and a life-changing experience. Explore <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-short-term-work-visa" className="text-orange-500">UK Short-Term Work Visa</Link> opportunities today.
       
-  For long-term options, consider <strong style={{ color: "#000" }}>UK PR Visa</strong> or other <strong style={{ color: "#000" }}>Work Abroad Opportunities</strong>. Our expert team ensures a smooth, hassle-free process every step of the way. Also check the <strong style={{ color: "#000" }}>Best Visa Immigration Consultants</strong> for guidance on multiple visa types, including <a href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit" className="text-orange-500 font-bold">UK Work Permit Visa</a>.
+  For long-term options, consider <strong style={{ color: "#000" }}>UK PR Visa</strong> or other <strong style={{ color: "#000" }}>Work Abroad Opportunities</strong>. Our expert team ensures a smooth, hassle-free process every step of the way. Also check the <strong style={{ color: "#000" }}>Best Visa Immigration Consultants</strong> for guidance on multiple visa types, including <Link href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit" className="text-orange-500 font-bold">UK Work Permit Visa</Link>.
 </p>
 
     </div>
