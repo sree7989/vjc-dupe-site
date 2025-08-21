@@ -12,7 +12,7 @@ const UKWorkPermit = () => {
         Are you planning to work and build a successful career in the United
         Kingdom? Securing a{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad/united-kingdom-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit"
           className="text-orange-500 font-bold"
         >
           United Kingdom Work Visa
@@ -40,7 +40,7 @@ const UKWorkPermit = () => {
         <p>
           A{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/united-kingdom-work-permit"
+            href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit"
             className="text-orange-500 font-bold"
           >
             Work in UK Permit
@@ -52,7 +52,7 @@ const UKWorkPermit = () => {
           across key sectors including healthcare, technology, engineering,
           finance, and more. Explore more{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-bold"
           >
             Work Abroad Opportunities
@@ -96,7 +96,7 @@ const UKWorkPermit = () => {
           </strong>{" "}
           One of the key advantages of a UK Work Permit Visa is the pathway to{" "}
           <a
-            href="https://vjcoverseas.com/pr-visas/uk-pr"
+            href="https://www.vjcoverseas.com/pr-visas/uk-pr"
             className="text-orange-500 font-bold"
           >
             UK PR Visa
@@ -168,7 +168,7 @@ const UKWorkPermit = () => {
       </h2>
       <p>
   At <strong>
-    <a href="https://vjcoverseas.com" style={{ color: "orange" }}>VJC Overseas</a>
+    <a href="https://www.vjcoverseas.com" style={{ color: "orange" }}>VJC Overseas</a>
   </strong>, we provide
   expert guidance to help you navigate the UK work visa process
   efficiently. We understand that securing a work visa can be a complex
@@ -199,7 +199,7 @@ const UKWorkPermit = () => {
       <p>
   If you are ready to explore professional growth in the UK and benefit
   from international experience, contact <strong style={{ color: "black" }}>VJC Overseas</strong> today. Take the first step toward obtaining your <strong style={{ color: "black" }}>United Kingdom Work Visa</strong> and eventually securing a <strong style={{ color: "black" }}>UK PR Visa</strong> to live and work permanently. Your UK career journey begins here — let <strong style={{ color: "black" }}>VJC Overseas</strong>, one of the <strong>
-    <a href="https://vjcoverseas.com" style={{ color: "orange" }}>Best Visa Immigration Consultants</a>
+    <a href="https://www.vjcoverseas.com" style={{ color: "orange" }}>Best Visa Immigration Consultants</a>
   </strong>, help make your dreams a reality!
 </p>
 
