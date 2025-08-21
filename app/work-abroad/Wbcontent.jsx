@@ -3,18 +3,18 @@
 import React from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
-
+import Link from "next/link";
 const points = [
   {title: "1. Tailored Career Pathways",
 description: (
   <>
     We recognize that every candidate has unique strengths and goals. As one of the{" "}
-    <a
-      href="https://www.vjcoverseas.com"
+    
+     <Link href="https://www.vjcoverseas.com"
       className="text-orange-500 font-semibold"
     >
       Best Visa Immigration Consultants
-    </a>
+    </Link>
     , we take time to evaluate your profile, qualifications, and aspirations before recommending the right career pathway. From engineering and IT roles to healthcare and skilled trades, our guidance ensures that your move abroad is meaningful and sustainable. Our team provides detailed advice on resume preparation, interview techniques, and matching your skillset with international opportunities. With personalized support, we help you make informed decisions and embark on a successful global career journey.
   </>
 ),
@@ -72,12 +72,12 @@ const WbContent = () => {
           className="text-base lg:text-lg mb-6 text-center"
         >
           Explore Opportunities to Work Abroad. Discover exciting job opportunities worldwide and kickstart your international career with trusted guidance. Our team at{" "}
-          <a
-            href="https://www.vjcoverseas.com"
+          
+           <Link href="https://www.vjcoverseas.com"
             className="text-orange-500 font-semibold"
           >
             VJC Overseas
-          </a>{" "}
+          </Link>{" "}
           is dedicated to helping skilled professionals like you navigate every step of the process – from identifying the right job, applying for a visa, to settling comfortably in your new home country.
         </motion.p>
 
@@ -88,12 +88,12 @@ const WbContent = () => {
           className="text-base lg:text-lg mb-6 text-center"
         >
           Many ambitious professionals aspire to{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-semibold"
           >
             Work Abroad Opportunities
-          </a>{" "}
+          </Link>{" "}
           that allow them to grow in their careers, gain international exposure, and experience new lifestyles. Whether you are looking to improve your skills, enjoy better financial prospects, or embrace cultural diversity, we are here to connect you with the right employers and destinations.
         </motion.p>
 
@@ -151,19 +151,19 @@ const WbContent = () => {
           className="mt-12 text-center text-base lg:text-lg"
         >
           Start your global career journey today with{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/work-abroad/germany-work-permit"
             className="text-orange-500 font-semibold"
           >
             Germany Work Permit
-          </a>
+          </Link>
           , explore endless opportunities, enhance your professional skills, and embrace new horizons with us. Our experts will also guide you through the{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-skilled-worker-visa"
             className="text-orange-500 font-semibold"
           >
             UK Skilled Worker Visa
-          </a>{" "}
+          </Link>{" "}
           process to ensure a smooth and hassle-free transition.
         </motion.p>
 
