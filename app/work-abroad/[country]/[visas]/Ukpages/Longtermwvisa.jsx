@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-
+import Link from "next/link";
 const LongTermWorkVisa = () => {
   return (
     <div
@@ -19,19 +19,19 @@ const LongTermWorkVisa = () => {
         </h1>
 <p>
   Dreaming of a long-term career in the UK? The UK Long Term Work Visa is your gateway to global opportunities, competitive salaries, and a higher quality of life. At <strong style={{ color: "#000" }}>VJC Overseas</strong>, one of the{" "}
-  <a
+  <Link
     href="https://www.vjcoverseas.com"
     className="text-orange-500 font-bold"
   >
     Best Visa Immigration Consultants
-  </a>
+  </Link>
   , we simplify your journey to the UK by offering expert guidance throughout the entire visa process. Explore more{" "}
-  <a
+  <Link
     href="https://www.vjcoverseas.com/work-abroad"
     className="text-orange-500 font-bold"
   >
     Work Abroad Opportunities
-  </a>{" "}
+  </Link>{" "}
   for long-term and short-term international work options.
 </p>
 
@@ -39,12 +39,12 @@ const LongTermWorkVisa = () => {
         <h2 className="text-xl mt-3 font-bold">What is the UK Long Term Work Visa?</h2>
         <p>
           The UK Long Term Work Visa—commonly known as the Skilled Worker Visa—allows skilled professionals from India and other countries to live and work in the UK for up to 5 years, with the possibility of extension or settlement. Sponsored by a licensed UK employer, this visa is ideal for those seeking a stable career and growth in international industries. You can also explore{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit"
             className="text-orange-500 font-bold"
           >
             UK Work Permit Visa
-          </a>{" "}
+          </Link>{" "}
           options for other categories of skilled employment in the UK.
         </p>
 
@@ -188,12 +188,12 @@ const LongTermWorkVisa = () => {
         {/* Final content updated */}
         <p>
           You may also consider{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/pr-visas/uk-pr"
             className="text-orange-500 font-bold"
           >
             UK PR Visa
-          </a>{" "}
+          </Link>{" "}
           if your goal is permanent residency after your long-term employment.
         </p>
 
@@ -202,19 +202,19 @@ const LongTermWorkVisa = () => {
         </h2>
         <p>
           With{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com"
             className="text-orange-500 font-bold"
           >
             VJC Overseas
-          </a>
+          </Link>
           , your{" "}
-          <a
+          <Link
             href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-long-term-work-visa"
             className="text-orange-500 font-bold"
           >
             UK Long-Term Work Permit Visa
-          </a>{" "}
+          </Link>{" "}
           journey becomes easy and efficient. Take the first step toward an international career, better pay, and a high-quality life in the United Kingdom.
         </p>
 
