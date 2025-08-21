@@ -14,7 +14,7 @@ const Australia482Visa = () => {
         an incredible opportunity to build your career, experience a new lifestyle, and explore one of the world’s most
         vibrant countries. Read on to discover everything you need to know about the{" "}
         <span style={{ color: "orange" }}>
-          <a href="https://vjcoverseas.com/work-abroad/australia-work-permit/482-visa">Australia Subclass 482 Visa</a>
+          <a href="https://www.vjcoverseas.com/work-abroad/australia-work-permit/482-visa">Australia Subclass 482 Visa</a>
         </span>
         , including salary expectations, living costs, and lifestyle benefits.
       </p>
@@ -51,7 +51,7 @@ const Australia482Visa = () => {
       <p>
         Australia is always in need of skilled professionals. The{" "}
         <span style={{ color: "orange" }}>
-          <a href="https://vjcoverseas.com/work-abroad/australia-work-permit">Australia Work Permit Visa</a>
+          <a href="https://www.vjcoverseas.com/work-abroad/australia-work-permit">Australia Work Permit Visa</a>
         </span>{" "}
         covers a wide range of job categories that allow workers to migrate temporarily and eventually consider permanent
         residency options. Some of the most in-demand occupations under the 482 Visa include:
@@ -93,7 +93,7 @@ const Australia482Visa = () => {
       <p>
         For many, the 482 Visa is not just about employment but also a chance to explore broader{" "}
         <span style={{ color: "orange" }}>
-          <a href="https://vjcoverseas.com/work-abroad">Work Abroad Opportunities</a>
+          <a href="https://www.vjcoverseas.com/work-abroad">Work Abroad Opportunities</a>
         </span>
         . Australia is consistently ranked among the best destinations for international workers because of its job demand,
         career progression options, and high standard of living.
@@ -103,7 +103,7 @@ const Australia482Visa = () => {
         Another important benefit is that the 482 Visa can eventually lead to permanent residency. Once you gain local
         work experience, you may be eligible to apply for the{" "}
         <span style={{ color: "orange" }}>
-          <a href="https://vjcoverseas.com/pr-visas/australia-pr">Australia PR Visa</a>
+          <a href="https://www.vjcoverseas.com/pr-visas/australia-pr">Australia PR Visa</a>
         </span>
         . This pathway allows you to settle in Australia long-term, enjoy more benefits, and eventually apply for
         citizenship.
@@ -112,7 +112,7 @@ const Australia482Visa = () => {
       <p>
         When it comes to choosing the{" "}
         <span style={{ color: "orange" }}>
-          <a href="https://vjcoverseas.com">Best Visa Immigration Consultants</a>
+          <a href="https://www.vjcoverseas.com">Best Visa Immigration Consultants</a>
         </span>
         , <strong style={{ color: "black" }}>VJC Overseas</strong> is known for its personalized services and high success rate. Our expert consultants provide:
       </p>
