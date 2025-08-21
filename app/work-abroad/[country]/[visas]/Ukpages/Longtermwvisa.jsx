@@ -20,14 +20,14 @@ const LongTermWorkVisa = () => {
 <p>
   Dreaming of a long-term career in the UK? The UK Long Term Work Visa is your gateway to global opportunities, competitive salaries, and a higher quality of life. At <strong style={{ color: "#000" }}>VJC Overseas</strong>, one of the{" "}
   <a
-    href="https://vjcoverseas.com"
+    href="https://www.vjcoverseas.com"
     className="text-orange-500 font-bold"
   >
     Best Visa Immigration Consultants
   </a>
   , we simplify your journey to the UK by offering expert guidance throughout the entire visa process. Explore more{" "}
   <a
-    href="https://vjcoverseas.com/work-abroad"
+    href="https://www.vjcoverseas.com/work-abroad"
     className="text-orange-500 font-bold"
   >
     Work Abroad Opportunities
@@ -189,7 +189,7 @@ const LongTermWorkVisa = () => {
         <p>
           You may also consider{" "}
           <a
-            href="https://vjcoverseas.com/pr-visas/uk-pr"
+            href="https://www.vjcoverseas.com/pr-visas/uk-pr"
             className="text-orange-500 font-bold"
           >
             UK PR Visa
@@ -203,14 +203,14 @@ const LongTermWorkVisa = () => {
         <p>
           With{" "}
           <a
-            href="https://vjcoverseas.com"
+            href="https://www.vjcoverseas.com"
             className="text-orange-500 font-bold"
           >
             VJC Overseas
           </a>
           , your{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-long-term-work-visa"
+            href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-long-term-work-visa"
             className="text-orange-500 font-bold"
           >
             UK Long-Term Work Permit Visa
