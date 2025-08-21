@@ -25,7 +25,7 @@ const GermanyWorkVisa = () => {
         we’ve become a trusted partner for thousands of professionals looking to
         advance their careers in Germany. Partnering with{" "}
         <Link
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-500 font-bold"
         >
           Best Visa Immigration Consultants
@@ -73,7 +73,7 @@ const GermanyWorkVisa = () => {
           ensure your application meets all the current requirements, giving you
           the confidence to explore{" "}
           <Link
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-bold"
           >
             Work Abroad Opportunities
@@ -179,7 +179,7 @@ const GermanyWorkVisa = () => {
       <p className="text-base">
         Many professionals first apply for a{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/canada-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/canada-work-permit"
           className="text-orange-500 font-bold"
         >
           Canada Work Permit Visa
@@ -191,7 +191,7 @@ const GermanyWorkVisa = () => {
       <p className="text-base">
         Skilled workers often prefer{" "}
         <Link
-          href="https://vjcoverseas.com/pr-visas/canada-pr/canada-express-entry"
+          href="https://www.vjcoverseas.com/pr-visas/canada-pr/canada-express-entry"
           className="text-orange-500 font-bold"
         >
           Canada Express Entry
@@ -204,7 +204,7 @@ const GermanyWorkVisa = () => {
       <p className="text-base">
         Many clients also explore{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/canada-work-permit"
+          href="https://www.vjcoverseas.com/work-abroad/canada-work-permit"
           className="text-orange-500 font-bold"
         >
           Work Permit to Canada
