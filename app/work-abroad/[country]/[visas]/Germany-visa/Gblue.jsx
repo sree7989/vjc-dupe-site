@@ -32,7 +32,7 @@ const Germany = () => {
         cultural heritage, and enjoy an excellent quality of life — this visa is
         your gateway. For those exploring{" "}
         <a
-          href="https://vjcoverseas.com/work-abroad"
+          href="https://www.vjcoverseas.com/work-abroad"
           className="text-orange-600 font-semibold"
         >
           Work Abroad Opportunities
@@ -57,7 +57,7 @@ const Germany = () => {
         <p>
           The{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/germany-work-permit/blue-visa"
+            href="https://www.vjcoverseas.com/work-abroad/germany-work-permit/blue-visa"
             className="text-orange-600 font-semibold"
           >
             Germany Blue Card
@@ -68,7 +68,7 @@ const Germany = () => {
           benefits like family reunification and a path to permanent residency
           in as little as 21–33 months. Compared to a{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/germany-work-permit"
+            href="https://www.vjcoverseas.com/work-abroad/germany-work-permit"
             className="text-orange-600 font-semibold"
           >
             Germany Work Permit Visa
@@ -130,7 +130,7 @@ const Germany = () => {
         application volume and personal circumstances. Apply early to avoid
         delays. If you are unsure,{" "}
         <a
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-600 font-semibold"
         >
           VJC Overseas
@@ -225,7 +225,7 @@ const Germany = () => {
         <strong className="text-black font-bold">VJC Overseas</strong> simplifies your Germany Blue Card application. From document checks to
         submission and follow-ups, we offer end-to-end support. Recognized as{" "}
         <a
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-600 font-semibold"
         >
           Best Visa Immigration Consultants
