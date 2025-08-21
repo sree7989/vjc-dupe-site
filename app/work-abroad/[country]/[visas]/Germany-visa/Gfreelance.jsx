@@ -136,7 +136,7 @@ const Content = () => {
           >
             Germany Opportunity Card
           </a>{" "}
-          to attract skilled professionals.
+          to attract skilled professionals
         </li>
       </ul>
 
