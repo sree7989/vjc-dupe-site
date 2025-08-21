@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-
+import Link from "next/link";
 const Content = () => {
   return (
     
@@ -25,7 +25,7 @@ const Content = () => {
     </h3>
     <p style={{marginBottom:'20px'}}>
       At <strong>VJC Overseas</strong>, we are committed to turning your dreams of working in Germany into reality. 
-      As experts in immigration services and one of the <a href="https://www.vjcoverseas.com" className="text-orange-500 font-semibold">Best Visa Immigration Consultants</a>, we understand the complexities of securing a 
+      As experts in immigration services and one of the <Link href="https://www.vjcoverseas.com" className="text-orange-500 font-semibold">Best Visa Immigration Consultants</Link>, we understand the complexities of securing a 
       <strong> Germany Work permit Visa</strong> and the opportunities that come with it. 
       With an outstanding success rate of securing visas every alternate day, we’ve become a trusted partner 
       for thousands of professionals looking to advance their careers in Germany.
@@ -103,22 +103,22 @@ const Content = () => {
       Expert Pathways for Skilled Professionals
     </h4>
     <p style={{marginBottom:'20px'}}>
-      One of the most sought-after pathways is the <a href="https://www.vjcoverseas.com/work-abroad/germany-work-permit" className="text-orange-500 font-semibold">Germany Skilled Worker Permit</a>, designed for professionals in high-demand sectors. 
+      One of the most sought-after pathways is the <Link href="https://www.vjcoverseas.com/work-abroad/germany-work-permit" className="text-orange-500 font-semibold">Germany Skilled Worker Permit</Link>, designed for professionals in high-demand sectors. 
       At VJC Overseas, we guide you through eligibility checks, documentation, and employer connections so you can secure opportunities with confidence.
     </p>
 
     <p style={{marginBottom:'20px'}}>
-      If you are applying for the <a href="https://www.vjcoverseas.com/work-abroad/germany-work-permit" className="text-orange-500 font-semibold">Germany work permit Visa</a>, we ensure your qualifications, experience, and job offers are aligned with the latest immigration standards. 
+      If you are applying for the <Link href="https://www.vjcoverseas.com/work-abroad/germany-work-permit" className="text-orange-500 font-semibold">Germany work permit Visa</Link>, we ensure your qualifications, experience, and job offers are aligned with the latest immigration standards. 
       Whether you are in IT, healthcare, engineering, or manufacturing, our consultants tailor solutions specific to your professional background.
     </p>
 
     <p style={{marginBottom:'20px'}}>
-      Germany is constantly innovating its immigration system to attract talent. The introduction of the <a href="https://www.vjcoverseas.com/germany-opportunity-card" className="text-orange-500 font-semibold">Germany Opportunity Card</a> has opened doors for qualified individuals to explore employment even before securing a job contract. 
+      Germany is constantly innovating its immigration system to attract talent. The introduction of the <Link href="https://www.vjcoverseas.com/germany-opportunity-card" className="text-orange-500 font-semibold">Germany Opportunity Card</Link> has opened doors for qualified individuals to explore employment even before securing a job contract. 
       Our team helps you navigate such evolving programs, making sure you benefit from the latest opportunities.
     </p>
 
     <p style={{marginBottom:'20px'}}>
-      Our consultancy also connects you to <a href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500 font-semibold">Work Abroad Opportunities</a> in Germany’s leading companies, giving you a chance to start your career in top German cities like Berlin, Munich, and Frankfurt.
+      Our consultancy also connects you to <Link href="https://www.vjcoverseas.com/work-abroad" className="text-orange-500 font-semibold">Work Abroad Opportunities</Link> in Germany’s leading companies, giving you a chance to start your career in top German cities like Berlin, Munich, and Frankfurt.
     </p>
 
     <h4 className="text-black font-semibold mb-2 text-md sm:text-lg">
@@ -143,7 +143,7 @@ const Content = () => {
       Start Your Germany Work Visa Journey with VJC Overseas Today!
     </h4>
     <p>
-  Ready to take the first step? Contact <a href="https://www.vjcoverseas.com" className="text-orange-500 font-semibold">VJC Overseas</a> today for expert guidance and make your dream of working in Germany a reality!
+  Ready to take the first step? Contact <Link href="https://www.vjcoverseas.com" className="text-orange-500 font-semibold">VJC Overseas</Link> today for expert guidance and make your dream of working in Germany a reality!
 </p>
 
     </div>
