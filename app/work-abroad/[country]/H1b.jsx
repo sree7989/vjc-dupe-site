@@ -29,7 +29,7 @@ const USAh1b = () => {
         occupations for U.S. employers. If you’re looking to work in the USA on
         an H1B Visa,{" "}
         <Link
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-500 font-bold"
         >
           VJC Overseas
@@ -61,7 +61,7 @@ const USAh1b = () => {
             professionals can not only access better career opportunities but
             also explore future immigration benefits, such as applying for a{" "}
             <Link
-              href="https://vjcoverseas.com/pr-visas/usa-green-card"
+              href="https://www.vjcoverseas.com/pr-visas/usa-green-card"
               className="text-orange-500 font-bold"
             >
               US Green Card
@@ -122,7 +122,7 @@ const USAh1b = () => {
           advanced degree holders. This makes the H1B highly competitive and a
           preferred choice among global professionals exploring{" "}
           <Link
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-bold"
           >
             Work Abroad Opportunities
@@ -286,7 +286,7 @@ const USAh1b = () => {
       <p className="mb-6 m-2">
         If you’re searching for{" "}
         <Link
-          href="https://vjcoverseas.com"
+          href="https://www.vjcoverseas.com"
           className="text-orange-500 font-bold"
         >
           Best Visa Immigration Consultants
@@ -320,7 +320,7 @@ const USAh1b = () => {
       <p className="mb-6 m-2">
         The{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/usa-h1b-visa"
+          href="https://www.vjcoverseas.com/work-abroad/usa-h1b-visa"
           className="text-orange-500 font-bold"
         >
           USA H-1B Work Visa
@@ -330,7 +330,7 @@ const USAh1b = () => {
         States. At <b>VJC Overseas</b>, we simplify the process, ensuring every
         step is handled with precision and care. Contact us today to begin your{" "}
         <Link
-          href="https://vjcoverseas.com/work-abroad/usa-h1b-visa"
+          href="https://www.vjcoverseas.com/work-abroad/usa-h1b-visa"
           className="text-orange-500 font-bold"
         >
           H-1B Work Permit USA
