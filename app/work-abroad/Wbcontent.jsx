@@ -10,7 +10,7 @@ description: (
   <>
     We recognize that every candidate has unique strengths and goals. As one of the{" "}
     <a
-      href="https://vjcoverseas.com"
+      href="https://www.vjcoverseas.com"
       className="text-orange-500 font-semibold"
     >
       Best Visa Immigration Consultants
@@ -73,7 +73,7 @@ const WbContent = () => {
         >
           Explore Opportunities to Work Abroad. Discover exciting job opportunities worldwide and kickstart your international career with trusted guidance. Our team at{" "}
           <a
-            href="https://vjcoverseas.com"
+            href="https://www.vjcoverseas.com"
             className="text-orange-500 font-semibold"
           >
             VJC Overseas
@@ -89,7 +89,7 @@ const WbContent = () => {
         >
           Many ambitious professionals aspire to{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-semibold"
           >
             Work Abroad Opportunities
@@ -152,14 +152,14 @@ const WbContent = () => {
         >
           Start your global career journey today with{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/germany-work-permit"
+            href="https://www.vjcoverseas.com/work-abroad/germany-work-permit"
             className="text-orange-500 font-semibold"
           >
             Germany Work Permit
           </a>
           , explore endless opportunities, enhance your professional skills, and embrace new horizons with us. Our experts will also guide you through the{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-skilled-worker-visa"
+            href="https://www.vjcoverseas.com/work-abroad/united-kingdom-work-permit/uk-skilled-worker-visa"
             className="text-orange-500 font-semibold"
           >
             UK Skilled Worker Visa
