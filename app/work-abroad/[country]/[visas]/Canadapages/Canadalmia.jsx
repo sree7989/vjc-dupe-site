@@ -20,7 +20,7 @@ const Canadastudent = () => {
 
       <h2>Unlock a World of Opportunities with the Canada LMIA Work Visa</h2>
       <p>
-  Looking to build a bright future in Canada? The <strong>Canada LMIA Work Permit</strong> (Labour Market Impact Assessment) is your gateway to high-paying jobs, a world-class lifestyle, and permanent residency pathways. At <span className="text-orange-500"><Link href="https://vjcoverseas.com">VJC Overseas</Link></span>, we specialize in guiding skilled professionals and aspiring workers through a smooth, successful LMIA application process.
+  Looking to build a bright future in Canada? The <strong>Canada LMIA Work Permit</strong> (Labour Market Impact Assessment) is your gateway to high-paying jobs, a world-class lifestyle, and permanent residency pathways. At <span className="text-orange-500"><Link href="https://www.vjcoverseas.com">VJC Overseas</Link></span>, we specialize in guiding skilled professionals and aspiring workers through a smooth, successful LMIA application process.
 </p>
 
 
@@ -42,7 +42,7 @@ const Canadastudent = () => {
         An <strong>LMIA</strong> is a document issued by <strong>Employment and Social Development Canada (ESDC)</strong>, verifying that a Canadian employer can hire a foreign worker when no Canadian citizen or permanent resident is available for the job.
       </p>
       <p>
-        Getting a positive LMIA is the first step toward applying for a <span className="text-orange-500"><Link href="https://vjcoverseas.com/work-abroad/canada-work-permit">Canada Work Permit</Link></span>, which can lead to Canadian PR (Permanent Residency) under various immigration streams.
+        Getting a positive LMIA is the first step toward applying for a <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/work-abroad/canada-work-permit">Canada Work Permit</Link></span>, which can lead to Canadian PR (Permanent Residency) under various immigration streams.
       </p>
 
       <h3 className="text-xl font-bold mt-3">Top Benefits of the LMIA Visa Program</h3>
@@ -57,7 +57,7 @@ const Canadastudent = () => {
 
       <h3 className="text-xl font-bold mt-3">In-Demand LMIA Jobs in Canada 2025</h3>
       <p>
-        Canada continues to face labour shortages in key sectors, creating excellent <span className="text-orange-500"><Link href="https://vjcoverseas.com/work-abroad">Work Abroad Opportunities</Link></span>. Here are the most sought-after LMIA job categories:
+        Canada continues to face labour shortages in key sectors, creating excellent <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/work-abroad">Work Abroad Opportunities</Link></span>. Here are the most sought-after LMIA job categories:
       </p>
       <ul>
         <li>Truck Drivers</li>
@@ -111,7 +111,7 @@ const Canadastudent = () => {
         <li>Personalized Case Handling & Job Matching</li>
       </ul>
       <p>
-        Applying for an LMIA is a complex process that requires expert support. <span className="text-orange-500"><Link href="https://vjcoverseas.com">Best Visa Immigration Consultants</Link></span> like VJC Overseas are trusted by thousands of applicants for legal, verified, and professional guidance.
+        Applying for an LMIA is a complex process that requires expert support. <span className="text-orange-500"><Link href="https://www.vjcoverseas.com">Best Visa Immigration Consultants</Link></span> like VJC Overseas are trusted by thousands of applicants for legal, verified, and professional guidance.
       </p>
 
       <hr className="border border-orange-500" />
@@ -124,7 +124,7 @@ const Canadastudent = () => {
         The <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/migrate-canada-permanent-residency-visa">Canada Permanent Residency Visa</Link></span> is your ultimate goal, and the LMIA Work Permit strengthens your profile for PR under Express Entry or Provincial Nominee Programs.
       </p>
       <p>
-        <strong>Contact us today</strong> to check your eligibility and begin your <span className="text-orange-500"><Link href="https://vjcoverseas.com/work-abroad/canada-work-permit/lmia">Canada LMIA Work Permit</Link></span> process with confidence.
+        <strong>Contact us today</strong> to check your eligibility and begin your <span className="text-orange-500"><Link href="https://www.vjcoverseas.com/work-abroad/canada-work-permit/lmia">Canada LMIA Work Permit</Link></span> process with confidence.
       </p>
 
     </div>
