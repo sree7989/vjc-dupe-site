@@ -19,7 +19,7 @@ const AustraliaVisa190 = () => {
         >
           Unlock Your Future in Australia with the{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/australia-work-permit/nomited-visa-subclass-190"
+            href="https://www.vjcoverseas.com/work-abroad/australia-work-permit/nomited-visa-subclass-190"
             className="text-orange-500 font-bold"
           >
             Skilled Nominated Visa Subclass 190
@@ -43,7 +43,7 @@ const AustraliaVisa190 = () => {
           The <strong style={{ color: "black" }}>Skilled Nominated Visa Subclass 190</strong>{" "}
           offers a fantastic opportunity for skilled professionals to make
           Australia their home. At{" "}
-          <a href="https://vjcoverseas.com" className="text-orange-500 font-bold">
+          <a href="https://www.vjcoverseas.com" className="text-orange-500 font-bold">
             VJC Overseas
           </a>
           , we specialize in helping individuals navigate the complexities of
@@ -137,7 +137,7 @@ const AustraliaVisa190 = () => {
         <p className="mb-4" style={{ fontFamily: "Times New Roman" }}>
           Australia offers a competitive{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad/australia-work-permit"
+            href="https://www.vjcoverseas.com/work-abroad/australia-work-permit"
             className="text-orange-500 font-bold"
           >
             Australia Work Permit Visa
@@ -162,7 +162,7 @@ const AustraliaVisa190 = () => {
           application is processed efficiently, so you can start your new life
           in Australia as soon as possible. By leveraging{" "}
           <a
-            href="https://vjcoverseas.com/work-abroad"
+            href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-bold"
           >
             Work Abroad Opportunities
@@ -175,7 +175,7 @@ const AustraliaVisa190 = () => {
           Australia is a top destination for skilled professionals seeking
           better opportunities. From a{" "}
           <a
-            href="https://vjcoverseas.com/pr-visas/australia-pr"
+            href="https://www.vjcoverseas.com/pr-visas/australia-pr"
             className="text-orange-500 font-bold"
           >
             Australia PR Visa
@@ -188,7 +188,7 @@ const AustraliaVisa190 = () => {
         <p className="mb-4" style={{ fontFamily: "Times New Roman" }}>
           As the{" "}
           <a
-            href="https://vjcoverseas.com"
+            href="https://www.vjcoverseas.com"
             className="text-orange-500 font-bold"
           >
             Best Visa Immigration Consultants
