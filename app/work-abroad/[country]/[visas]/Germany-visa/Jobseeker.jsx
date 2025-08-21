@@ -19,7 +19,7 @@ export default function GermanyJobseekerVisa() {
       </h1>
 
       <p className="mb-3">
-        Are you ready to take the next step in your professional journey and explore career opportunities in Europe? The <strong className="text-black font-bold">Germany Job Seeker Visa</strong> offers a unique chance for skilled individuals to live in Germany and actively search for employment. At <span className="text-orange-500 font-bold"><a href="https://www.vjcoverseas.com/">VJC Overseas</a></span>, we specialize in guiding professionals through every stage of this process, ensuring that your path to working abroad is smooth, transparent, and result-oriented, we have successfully assisted thousands of clients who wanted to explore <span className="text-orange-500 font-bold"><a href="https://vjcoverseas.com/work-abroad">work abroad opportunities</a></span>.
+        Are you ready to take the next step in your professional journey and explore career opportunities in Europe? The <strong className="text-black font-bold">Germany Job Seeker Visa</strong> offers a unique chance for skilled individuals to live in Germany and actively search for employment. At <span className="text-orange-500 font-bold"><a href="https://www.vjcoverseas.com/">VJC Overseas</a></span>, we specialize in guiding professionals through every stage of this process, ensuring that your path to working abroad is smooth, transparent, and result-oriented, we have successfully assisted thousands of clients who wanted to explore <span className="text-orange-500 font-bold"><a href="https://www.vjcoverseas.com/work-abroad">work abroad opportunities</a></span>.
       </p>
 
       <h2 className="text-1xl font-bold" style={{ marginTop: "10px", marginBottom: "15px" }}>What is the Germany Job Seeker Visa?</h2>
@@ -61,7 +61,7 @@ export default function GermanyJobseekerVisa() {
 
       <h2 className="text-1xl font-bold" style={{ marginTop: "10px", marginBottom: "15px" }}>Processing Time & Visa Fees</h2>
       <p style={{ marginBottom: "10px" }}>
-        On average, the processing time for the <span className="text-orange-500 font-bold"><a href="https://vjcoverseas.com/work-abroad/germany-work-permit/job-seeker-visa">Germany Job Seeker Visa</a></span> ranges from 4 to 12 weeks, depending on the embassy and completeness of your application. The visa fee is usually €75, and you must also provide proof of funds—around €1,000 per month, totaling approximately €6,000 for six months.
+        On average, the processing time for the <span className="text-orange-500 font-bold"><a href="https://www.vjcoverseas.com/work-abroad/germany-work-permit/job-seeker-visa">Germany Job Seeker Visa</a></span> ranges from 4 to 12 weeks, depending on the embassy and completeness of your application. The visa fee is usually €75, and you must also provide proof of funds—around €1,000 per month, totaling approximately €6,000 for six months.
       </p>
 
       <h2 className="text-1xl font-bold" style={{ marginTop: "10px", marginBottom: "15px"}}>How <strong className="text-black font-bold">VJC Overseas</strong> Can Help You</h2>
