@@ -92,7 +92,7 @@ const WbContent = () => {
             href="https://www.vjcoverseas.com/work-abroad"
             className="text-orange-500 font-semibold"
           >
-            Work Abroad Opportunities
+            Work Abroad Opportunitie
           </Link>{" "}
           that allow them to grow in their careers, gain international exposure, and experience new lifestyles. Whether you are looking to improve your skills, enjoy better financial prospects, or embrace cultural diversity, we are here to connect you with the right employers and destinations.
         </motion.p>
